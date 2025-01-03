@@ -12,7 +12,7 @@ sections:
           - publication
         featured_only: true
     design:
-      view: community/compact
+      view: community/compact.start
  #     columns: 2
   - block: collection
     id: projects
@@ -23,7 +23,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      view: community/compact
+      view: community/compact.start
  #     columns: 2
 ---
 
