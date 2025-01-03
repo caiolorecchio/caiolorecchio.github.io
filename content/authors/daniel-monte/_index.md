@@ -16,6 +16,7 @@ superuser: false
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
+# Optional external URL for author (replaces author detail page).
 external_link: https://sites.google.com/site/dma33danielmonte/ 
 
 # Role/position/tagline
