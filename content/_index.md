@@ -39,7 +39,7 @@ sections:
           - publication
         featured_only: true
     design:
-      view: compact
+      view: card
       columns: 2
   - block: collection
     content:
