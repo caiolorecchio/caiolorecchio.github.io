@@ -22,6 +22,8 @@ highlight_name: false
 # Role/position/tagline
 role: Assistant Professor
 
+external_link: https://sites.google.com/site/dma33danielmonte/
+
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Universitat de Barcelona
