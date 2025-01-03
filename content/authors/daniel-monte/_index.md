@@ -8,7 +8,7 @@ last_name: Monte
 
 # Status emoji
 # status:
-#  icon: ☕️
+#  icon: ' '
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,9 +20,8 @@ highlight_name: false
 organizations:
   - name: University of Torino
     url: https://sites.google.com/site/dma33danielmonte/
-
+    
 # Role/position/tagline
 role: Assistant Professor
-
 ---
 
