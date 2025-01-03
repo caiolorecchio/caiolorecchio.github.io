@@ -16,9 +16,10 @@ superuser: false
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
+external_link: https://sites.google.com/site/dma33danielmonte/ 
+
 # Role/position/tagline
 role: Assistant Professor
 
-external_link: https://sites.google.com/site/dma33danielmonte/ 
 ---
 
