@@ -24,10 +24,10 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: parc-guell.jpg
+          filename: parc-guell.png
           filters:
             brightness: 0.6
-          size: autor
+          size: auto
           position: center
           parallax: true
   - block: collection
