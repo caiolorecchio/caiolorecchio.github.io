@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: "Publications"
       filters:
         folders:
           - publication
@@ -24,7 +24,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Ongoing Projects
+      title: "Ongoing Projects"
       filters:
         folders:
           - publication
