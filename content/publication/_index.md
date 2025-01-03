@@ -2,11 +2,36 @@
 title: Publications
 cms_exclude: true
 
-# View.
-view: citation
+design:
+# Default section spacing
+  spacing: "6rem"
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+# View.
+view: compact
+
+sections:
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: compact
+ #     columns: 2
+  - block: collection
+    id: projects
+    content:
+      title: Ongoing Projects
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      view: compact
+ #     columns: 2
 ---
+
+
