@@ -38,7 +38,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: https://drive.google.com/file/d/1b3uQ3dxE9lSUxOT4MsXYhl6EWl21QUYV/view
+url_slides: ' '
 url_source: ''
 url_video: ''
 
@@ -61,5 +61,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+
+slides: Bad_Reputation_with_Rating_Systems__NASMES_2022
 ---
