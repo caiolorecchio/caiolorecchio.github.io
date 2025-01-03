@@ -1,4 +1,5 @@
 ---
+type: landing
 design:
   spacing: "6rem"  
 sections:
