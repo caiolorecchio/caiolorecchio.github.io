@@ -15,13 +15,13 @@ superuser: false
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+    
+# Role/position/tagline
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Torino
     url: https://sites.google.com/site/dma33danielmonte/
-    
-# Role/position/tagline
-role: Assistant Professor
 ---
 
