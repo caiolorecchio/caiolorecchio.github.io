@@ -27,7 +27,7 @@ sections:
           filename: parc-guell.png
           filters:
             brightness: 0.6
-          size: auto
+          size: cover
           position: center
           parallax: false
  # - block: collection
