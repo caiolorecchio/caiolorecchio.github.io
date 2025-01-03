@@ -6,8 +6,8 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2021-08-17"
-doi: "10.1016/j.geb.2023.07.019"
+date: "2023-11-17"
+doi: " "
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-01"
@@ -18,16 +18,16 @@ publishDate: "2025-01-01"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Games and Economic Behavior, 142*(2023) 150-178"
+publication: "*Games and Economic Behavior*, 142 (2023) 150-178"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We consider information censoring through finite memory as a device against bad reputational concerns. Our class of constrained information policies resembles common practices in online reputation systems, on which customers increasingly rely whenever hiring experts. In a world of repeated interactions between a long-lived expert and short-lived customers, Ely and Välimäki (2003) show that unlimited record-keeping may induce the expert to overchoose a certain action, seeking reputational gains. Consequently, welfare may reduce and markets may break down. We show that simple rating systems in such world help overcome market failures and improve upon both the full-memory and the no-memory cases.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
+# tags:
+#  - 
 featured: true
 
 # links:
@@ -38,7 +38,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1b3uQ3dxE9lSUxOT4MsXYhl6EWl21QUYV/view'
 url_source: ''
 url_video: ''
 
@@ -64,12 +64,12 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
