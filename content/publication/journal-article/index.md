@@ -49,6 +49,8 @@ image:
   focal_point: ""
   preview_only: false
 
+slides: Bad_Reputation_with_Rating_Systems__NASMES_2022
+
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -62,5 +64,4 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 
-slides: Bad_Reputation_with_Rating_Systems__NASMES_2022
 ---
