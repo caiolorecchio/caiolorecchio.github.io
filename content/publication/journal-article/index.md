@@ -49,7 +49,7 @@ image:
   focal_point: ""
   preview_only: false
 
-slides: Bad_Reputation_with_Rating_Systems__NASMES_2022
+slides: "Bad_Reputation_with_Rating_Systems__NASMES_2022"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
