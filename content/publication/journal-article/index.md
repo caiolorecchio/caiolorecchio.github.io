@@ -38,7 +38,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://drive.google.com/file/d/1b3uQ3dxE9lSUxOT4MsXYhl6EWl21QUYV/view'
+url_slides: https://drive.google.com/file/d/1b3uQ3dxE9lSUxOT4MsXYhl6EWl21QUYV/view
 url_source: ''
 url_video: ''
 
