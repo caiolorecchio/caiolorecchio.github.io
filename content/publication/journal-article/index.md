@@ -2,7 +2,7 @@
 title: "Bad Reputation with Simple Rating Systems"
 authors:
 - admin
-- Daniel Monte
+- daniel-monte
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
