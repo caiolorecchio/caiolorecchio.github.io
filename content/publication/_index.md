@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Research"
 cms_exclude: true
 
 design:
