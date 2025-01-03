@@ -1,14 +1,11 @@
 ---
-title: "Research"
+title: " "
 cms_exclude: true
 
 design:
 # Default section spacing
   spacing: "6rem"
-
-# View.
-view: compact
-
+  
 sections:
   - block: collection
     id: publications
