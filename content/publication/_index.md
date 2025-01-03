@@ -1,7 +1,7 @@
 ---
 type: landing
 design:
-  spacing: "6rem"  
+  spacing: "3rem"  
 sections:
   - block: collection
     id: publications
