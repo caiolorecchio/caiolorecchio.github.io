@@ -24,45 +24,34 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: parc-guell.jpg
           filters:
-            brightness: 1.0
-          size: cover
+            brightness: 0.6
+          size: autor
           position: center
-          parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+          parallax: true
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
         featured_only: true
     design:
-      view: article-grid
+      view: compact
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Ongoing Projects
       text: ""
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: true
     design:
-      view: citation
+      view: compact
+      columns: 2
   - block: collection
     id: talks
     content:
@@ -76,7 +65,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
