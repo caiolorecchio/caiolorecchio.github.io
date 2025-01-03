@@ -10,7 +10,7 @@ date: "2023-11-17"
 doi:  
 
 # Schedule page publish date (NOT publication's date).
-publishDate: " "
+publishDate: "2023-11-17"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,7 +18,7 @@ publishDate: " "
 # publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Games and Economic Behavior*, 142 (2023) 150-178"
+publication: "*Games and Economic Behavior*, 142, 150-178"
 publication_short: ""
 
 abstract: We consider information censoring through finite memory as a device against bad reputational concerns. Our class of constrained information policies resembles common practices in online reputation systems, on which customers increasingly rely whenever hiring experts. In a world of repeated interactions between a long-lived expert and short-lived customers, Ely and Välimäki (2003) show that unlimited record-keeping may induce the expert to overchoose a certain action, seeking reputational gains. Consequently, welfare may reduce and markets may break down. We show that simple rating systems in such world help overcome market failures and improve upon both the full-memory and the no-memory cases.
