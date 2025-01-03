@@ -11,7 +11,7 @@ main:
     url: news/
     weight: 2
   - name: Research
-    url: /#papers
+    url: publication/
     weight: 3
   - name: Courses
     url: teaching/
