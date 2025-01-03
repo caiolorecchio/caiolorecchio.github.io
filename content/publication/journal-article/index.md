@@ -30,9 +30,9 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 #  - 
 featured: true
 
- links:
- - name: "Article page"
-   url: "https://www.sciencedirect.com/science/article/pii/S0899825623001136?ref=pdf_download&fr=RR-2&rr=8fc57289f951cbd0"
+# links:
+# - name: "Article page"
+#   url: "https://www.sciencedirect.com/science/article/pii/S0899825623001136?ref=pdf_download&fr=RR-2&rr=8fc57289f951cbd0"
 url_pdf:
 url_code: ''
 url_dataset: ''
