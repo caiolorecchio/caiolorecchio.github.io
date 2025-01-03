@@ -186,6 +186,6 @@ profiles:
 
 ## About Me
 
-I study the impact of information on strategic interactions. 
+**I study the impact of information on strategic interactions.** 
 
-My research interests include the design of recommender systems, the manipulation of information in crowds, and the transmission of information in markets and elections.
+**My research interests include the design of recommender systems, the manipulation of information in crowds, and the transmission of information in markets and elections.**
