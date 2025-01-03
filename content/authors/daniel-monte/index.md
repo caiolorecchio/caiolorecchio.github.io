@@ -19,7 +19,6 @@ highlight_name: false
 # Role/position/tagline
 role: Assistant Professor
 
-# Organizations/Affiliations to display in Biography blox
 external_link: https://sites.google.com/site/dma33danielmonte/ 
 ---
 
