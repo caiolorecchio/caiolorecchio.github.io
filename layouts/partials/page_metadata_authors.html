@@ -3,13 +3,11 @@
 {{- $taxonomy := "authors" }}
 {{ if .Param $taxonomy }}
   {{ range $index, $value := (.GetTerms $taxonomy) }}
-    {{- /* Highlight the author's name? */ -}}
-    {{- $highlight_name := .Page.Params.highlight_name | default false -}}
-
+    {{- /* Insert a comma before all but the first author */ -}}
     {{- if gt $index 0 }}, {{ end -}}
-    <span {{ if $highlight_name }}class="font-bold"{{ end }}>
-      {{/* Check for external link or local author page */}}
-      {{ with site.GetPage (printf "authors/%s" $value) }}
+
+    {{ with site.GetPage (printf "authors/%s" $value) }}
+      <span class="{{ if .Params.highlight_name }}font-bold{{ end }}">
         {{ if .Params.external_link }}
           <a href="{{ .Params.external_link }}" target="_blank" rel="noopener noreferrer">
             {{ .LinkTitle }}
@@ -19,15 +17,17 @@
         {{ else }}
           {{ .LinkTitle }}
         {{ end }}
-      {{ else }}
-        {{ .LinkTitle }}
-      {{ end }}
-    </span>
+      </span>
+    {{ else }}
+      <span>{{ $value }}</span> <!-- Fallback if the author page does not exist -->
+    {{ end }}
 
+    {{- /* Add author notes if available */ -}}
     {{- if isset $.Params "author_notes" -}}
       {{- with (index $.Params.author_notes $index) -}}
         <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{ . }}"></i>
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
