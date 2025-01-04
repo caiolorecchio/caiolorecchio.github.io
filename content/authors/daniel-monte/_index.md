@@ -1,6 +1,6 @@
 ---
 # Display name
-title: [Daniel Monte](https://sites.google.com/site/dma33danielmonte/)
+title: '[Daniel Monte](https://sites.google.com/site/dma33danielmonte/)'
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
