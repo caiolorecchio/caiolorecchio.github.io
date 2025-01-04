@@ -188,6 +188,4 @@ profiles:
 
 **I study the impact of information on strategic interactions.** 
 
-**I study how information rationalizes individual behavior and social phenomena.**
-
 **My research interests include the design of recommender systems, the manipulation of information in crowds, and the transmission of information in markets and elections.**
