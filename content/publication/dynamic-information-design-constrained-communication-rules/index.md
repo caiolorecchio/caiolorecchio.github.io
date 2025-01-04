@@ -66,4 +66,4 @@ projects: []
 #   Otherwise, set `slides: ""`
 ---
 
-Winner of the Best Theory Paper Award by the 42nd meeting of the Brazilian Econometric Society (2019). 
+Winner of the Best Theory Paper Award at the 42nd meeting of the Brazilian Econometric Society (2019). 
