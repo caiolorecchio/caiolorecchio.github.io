@@ -49,6 +49,8 @@ footer:
 
 profile: false
 
+enable_reading_time: false
+
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
