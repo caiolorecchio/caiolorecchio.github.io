@@ -8,15 +8,15 @@
       {{ with site.GetPage (printf "authors/%s" $value) }}
         {{ if .Params.external_link }}
           <a href="{{ .Params.external_link }}" target="_blank" rel="noopener noreferrer" {{ if .Params.highlight_name }}class="font-bold"{{ end }}>
-            {{ .LinkTitle }}
+            {{ .Title }}
           </a>
         {{ else if .RelPermalink }}
           <a href="{{ .RelPermalink }}" {{ if .Params.highlight_name }}class="font-bold"{{ end }}>
-            {{ .LinkTitle }}
+            {{ .Title }}
           </a>
         {{ else }}
           <span {{ if .Params.highlight_name }}class="font-bold"{{ end }}>
-            {{ .LinkTitle }}
+            {{ .Title }}
           </span>
         {{ end }}
       {{ else }}
