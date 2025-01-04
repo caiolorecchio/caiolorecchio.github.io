@@ -20,7 +20,7 @@
           </span>
         {{ end }}
       {{ else }}
-        <span>{{ .LinkTitle }}</span>
+        <span>{{ $value }}</span>
       {{ end }}
     </span>
     {{- if isset $.Params "author_notes" -}}
@@ -30,6 +30,7 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
+
 
 
 
