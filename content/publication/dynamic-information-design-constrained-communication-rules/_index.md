@@ -18,7 +18,7 @@ publishDate: "2023-02-01"
 # publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*American Economic Journal: Microeconomics*, 15(1): 359-98"
+publication: "*American Economic Journal: Microeconomics*, 15(1), 359-98"
 publication_short: ""
 
 abstract: An information designer wishes to persuade agents to invest in a project of unknown quality. To do so, she must induce investment and collect feedback from these investments. Motivated by data regulations and simplicity concerns, our designer faces communication constraints. These constraints hinder her without benefiting the agents: they impose an upper bound on the induced belief spread, limiting persuasion. Nevertheless, two-rating systems (direct recommendations) are the optimal design when experimentation is needed to generate information and approximate the designer's first-best payoff for specific feedback structures. When the designer has altruistic motives, constrained rules significantly decrease welfare.
@@ -66,3 +66,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`
 ---
+
+Winner of the Best Theory Paper Award by the 42nd meeting of the Brazilian Econometric Society (2019). 
