@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Daniel Monte
+external_link: https://sites.google.com/site/dma33danielmonte/
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -21,8 +22,6 @@ highlight_name: false
 
 # Role/position/tagline
 role: Assistant Professor
-
-external_link: "https://sites.google.com/site/dma33danielmonte/"
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
