@@ -12,7 +12,7 @@ sections:
           - publication
         featured_only: true
     design:
-      view: layouts/partials/views/communinity/citation
+      view: views/citation
  #     columns: 2
   - block: collection
     id: projects
