@@ -35,7 +35,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://diposit.ub.edu/dspace/handle/2445/189967'
+url_pdf: 'https://diposit.ub.edu/dspace/bitstream/2445/189967/1/E22-434_Lorecchio.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
