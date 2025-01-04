@@ -31,7 +31,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 featured: false
 
 # Custom links (uncomment lines below)
- links:
+links:
  - name: Depository (UB)
    url: https://diposit.ub.edu/dspace/bitstream/2445/189967/1/E22-434_Lorecchio.pdf
 
