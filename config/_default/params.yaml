@@ -49,7 +49,7 @@ footer:
 
 profile: false
 
-reading_time: false
+enable_reading_time: false
 
 # Localization
 locale:
