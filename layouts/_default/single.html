@@ -52,12 +52,13 @@
           {{ end }}
         {{ end }}
 
-        {{ if and (or (eq .Type "post") (eq .Params.reading_time true)) (site.Params.enable_reading_time) }}
+        {{ if ne .Params.reading_time false }}
         <span class="mx-1">·</span>
         <span class="mx-1">
           {{ .ReadingTime }} {{ i18n "minute_read" }}
         </span>
         {{ end }}
+        </div>
 
 
         <div class="mt-3">
