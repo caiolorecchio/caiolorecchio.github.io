@@ -34,7 +34,6 @@ featured: false
 # links:
 # - name: Depository (UB)
 #   url: https://diposit.ub.edu/dspace/bitstream/2445/189967/1/E22-434_Lorecchio.pdf
-
 url_pdf: 'https://diposit.ub.edu/dspace/bitstream/2445/189967/1/E22-434_Lorecchio.pdf'
 url_code: ''
 url_dataset: ''
