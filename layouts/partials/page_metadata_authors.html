@@ -9,7 +9,7 @@
     {{- if gt $index 0 }}, {{ end -}}
     <span {{ if $highlight_name }}class="font-bold"{{end}}>
       {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
-      {{ with site.GetPage (printf "authors/%s" $title) }}
+      {{ with site.GetPage (printf "authors/%s" $value) }}
         {{ if .Params.external_link }}
           <a href="{{ .Params.external_link }}" target="_blank" rel="noopener noreferrer">
             {{ .LinkTitle }}
