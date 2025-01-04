@@ -31,11 +31,11 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+ links:
+ - name: Depository (UB)
+   url: https://diposit.ub.edu/dspace/bitstream/2445/189967/1/E22-434_Lorecchio.pdf
 
-url_pdf: 'https://diposit.ub.edu/dspace/bitstream/2445/189967/1/E22-434_Lorecchio.pdf'
+url_pdf: 'https://drive.google.com/file/d/1tJO8COYus8jzjnYY30irlavuV7Ls8_b7/view?usp=sharing'
 url_code: ''
 url_dataset: ''
 url_poster: ''
