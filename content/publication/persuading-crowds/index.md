@@ -1,4 +1,4 @@
---
+---
 title: "Persuading Crowds"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -71,4 +71,4 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
---
+---
