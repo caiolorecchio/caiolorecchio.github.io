@@ -30,6 +30,9 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 #  - 
 featured: true
 
+# Disable reading time:
+reading_time: false
+
 # links:
 # - name: "Slides"
 #   url: "https://drive.google.com/file/d/1b3uQ3dxE9lSUxOT4MsXYhl6EWl21QUYV/view?usp=sharing"
