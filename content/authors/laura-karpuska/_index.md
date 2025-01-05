@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniel Monte
+title: Laura Karpuska
 external_link: "https://laurakarpuska.com/"
 
 # Name pronunciation (optional)
