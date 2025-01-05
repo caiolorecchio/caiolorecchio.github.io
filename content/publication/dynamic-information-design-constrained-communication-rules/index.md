@@ -7,7 +7,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2023-02-01"
-doi: 'https://doi.org/10.1257/mic.20200356' 
+doi: '10.1257/mic.20200356' 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-02-01"
@@ -24,11 +24,14 @@ publication_short: ""
 abstract: "An information designer wishes to persuade agents to invest in a project of unknown quality. To do so, she must induce investment and collect feedback from these investments. Motivated by data regulations and simplicity concerns, our designer faces communication constraints. These constraints hinder her without benefiting the agents: they impose an upper bound on the induced belief spread, limiting persuasion. Nevertheless, two-rating systems (direct recommendations) are the optimal design when experimentation is needed to generate information and approximate the designer's first-best payoff for specific feedback structures. When the designer has altruistic motives, constrained rules significantly decrease welfare."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: How to persuade agents when communication constraints limit the belief spread?
 
 # tags:
 #  - 
 featured: true
+
+# Show publication and sharing statistics? (requires valid doi)
+add_badge: true
 
 # Disable reading time:
 reading_time: false

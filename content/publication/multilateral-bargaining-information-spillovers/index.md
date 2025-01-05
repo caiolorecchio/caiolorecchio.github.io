@@ -32,6 +32,9 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 #  - 
 featured: false
 
+# Show publication and sharing statistics? (requires valid doi)
+add_badge: false
+
 status: "*work in progress*"
 
 # Disable reading time:

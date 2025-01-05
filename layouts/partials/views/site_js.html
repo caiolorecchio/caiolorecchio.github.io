@@ -1,0 +1,9 @@
+<div class="ml-3">
+    {{ if .Params.doi }}
+      <div class="__dimensions_badge_embed__" data-doi="{{ .Params.doi }}" data-hide-zero-citations="true" data-legend="hover-bottom" rel="noopener noreferrer"></div>
+      <div class='altmetric-embed' data-badge-popover='bottom' data-doi="{{ .Params.doi }}"></div>
+      <a href="{{ .Params.doi }}" data-popup="bottom" data-badge="true" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">{{ .Params.title }}</a>
+    {{ else }}
+      <a href="{{ .Params.title }}" data-popup="bottom" data-badge="true" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">{{ .Params.title }}</a>
+    {{ end }}
+  </div>
