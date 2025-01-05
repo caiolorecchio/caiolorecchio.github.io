@@ -27,12 +27,28 @@
       {{ end }}
     </span>
     ({{ $item.Date.Format "2006" }}).
-    <a href="{{ $item.RelPermalink }}" class="underline">{{ $item.Title }}</a>.
-    {{ if $item.Params.publication_short }}
-      {{ $item.Params.publication_short | markdownify }}.
-    {{ else if $item.Params.publication }}
-      {{ $item.Params.publication | markdownify }}.
-    {{ end }}
+    <a href="{{ $item.RelPermalink }}" class="underline" style="color: blue;">{{ $item.Title }}</a>.
+{{ if $item.Params.publication_short }}
+  <span class="text">{{ $item.Params.publication_short | markdownify }}</span>.
+{{ else if $item.Params.publication }}
+  {{ $publicationParts := split $item.Params.publication "*" }}
+  {{ if gt (len $publicationParts) 1 }}
+    {{ index $publicationParts 0 }}<span style="color: red;"><em>{{ index $publicationParts 1 }}</em></span>{{ index $publicationParts 2 }}.
+  {{ else }}
+    {{ $item.Params.publication | markdownify }}.
+  {{ end }}
+{{ end }}
+
+    {{ if $item.Params.summary }}
+    <div class="summary" style="margin: 1em 0;">
+      {{ $item.Params.summary | markdownify | emojify }}
+    </div>
+  {{ else if $item.Params.abstract }}
+    <div class="summary" style="margin: 1em 0;">
+      {{ $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
+    </div>
+  {{ end }}
+
 
     {{ if $has_attachments }}
     <div class="flex flex-wrap space-x-3">
