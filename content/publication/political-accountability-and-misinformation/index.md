@@ -43,7 +43,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://drive.google.com/file/d/1Rf47Xpy2EdmSw7E-toTl_5BqVR4PhbBl/view?usp=sharing'
+url_slides: ''
 url_source: ''
 url_video: ''
 
