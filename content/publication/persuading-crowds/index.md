@@ -30,6 +30,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 # Display this page in the Featured widget?
 featured: false
 
+status: "*working paper*"
+
 # Reading time?
 reading_time: false
 

@@ -1,5 +1,5 @@
 ---
-title: "Information Acquisition in Deliberative Democracies"
+title: "Multilateral Bargaining with Information Spillovers"
 authors:
 - admin
 - william-fuchs
@@ -31,6 +31,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 # tags:
 #  - 
 featured: false
+
+status: "*work in progress*"
 
 # Disable reading time:
 reading_time: false

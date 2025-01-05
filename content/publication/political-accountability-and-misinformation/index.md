@@ -32,6 +32,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 #  - 
 featured: false
 
+status: "*work in progress*"
+
 # Disable reading time:
 reading_time: false
 
