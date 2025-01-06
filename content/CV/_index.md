@@ -66,7 +66,7 @@ Last updated on Jan 06, 2025.
 * **Member of the Recruiting Committee** of the Economic Theory Section of University of Barcelona, 2022/2023, 2023/2024, 2024/2025.
 * **Reviewer** of the European Association of Young Economists, 2024, 2025.
 * **Member of the Scientific Committee** of the 46th Annual Meeting of the Brazilian Econometric Society, 2024.
-* **Organizer** of the *Universitat de Barcelona* Microeconomics Workshop, [2022](https://sites.google.com/view/ubmicroworkshop/home), [2023](https://sites.google.com/view/ubmicroworkshop-2/home), [2024](https://sites.google.com/view/ubmicroworkshop-3/home), 2025.
+* **Organizer** of the *Universitat de Barcelona* microeconomics workshops, [2022](https://sites.google.com/view/ubmicroworkshop/home), [2023](https://sites.google.com/view/ubmicroworkshop-2/home), [2024](https://sites.google.com/view/ubmicroworkshop-3/home), 2025.
 
 
 ## Grants and Awards
