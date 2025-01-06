@@ -26,7 +26,7 @@ publishDate: "2024-12-01"
 abstract: "We examine the impact of deliberation on political learning and election outcomes. A rational, common-valued electorate votes under majority rule, after potentially acquiring costly private information and sharing it freely through public deliberation. Our findings suggest that deliberation can lead to free-riding on information gathering, but also encourage the emergence of informed political experts. Overall, deliberation may legitimize purely electoral outcomes and yield more accurate decisions. However, deliberation may also reduce electoral accuracy. We provide conditions for these results and contribute to the understanding of the strengths and limitations of deliberative democracies."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: With costly political learning, deliberative democracies may lead to less informed collective decisions. 
 
 # tags:
 #  - 

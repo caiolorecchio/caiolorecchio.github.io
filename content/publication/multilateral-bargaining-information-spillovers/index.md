@@ -26,7 +26,7 @@ publishDate: "2025-01-01"
 abstract: "We study dynamic bargaining with information asymmetries and spillovers. A monopolist faces potential buyers with private, yet correlated, valuations for a good. As such, while trying to extract surplus from early buyers, the monopolist must consider that their trading behavior reveals information to delaying buyers. The monopolist's inability to commit to prices limits surplus extraction, but the commitment gains are non-monotonic in correlation: at lower levels, lack of commitment power is more detrimental with more information; at higher levels, commitment power increases with more information. Additionally, we examine the impacts of correlation on the pricing dynamics, the speed of trades and welfare. The model has implications for policies targeting market segmentation. Specifically, we show that regulating the monopolist's possibility of charging different prices to different buyers may increase or decrease welfare, depending on the correlation level and the bargaining cost."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Correlated demands rationalize more dynamic pricing than what classic bargaining models suggest.
 
 # tags:
 #  - 
