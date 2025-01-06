@@ -40,9 +40,10 @@ status: "*under review*"
 # Disable reading time:
 reading_time: false
 
-# links:
-# - name: "Slides"
-#   url: "https://drive.google.com/file/d/1b3uQ3dxE9lSUxOT4MsXYhl6EWl21QUYV/view?usp=sharing"
+links:
+ - name: "Podcast"
+   url: https://spotifycreators-web.app.link/e/ZS91nFXbWPb
+
 url_pdf: https://diposit.ub.edu/dspace/bitstream/2445/217266/1/E24-479_Domenech%2bLorechio%2bTejada.pdf
 url_code: ''
 url_dataset: ''
