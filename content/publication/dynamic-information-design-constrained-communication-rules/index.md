@@ -30,15 +30,13 @@ summary: How to persuade agents when communication constraints limit the belief 
 #  - 
 featured: true
 
-# Show publication and sharing statistics? (requires valid doi)
-add_badge: true
-
 # Disable reading time:
 reading_time: false
 
-# links:
-# - name: "Slides"
-#   url: "https://drive.google.com/file/d/1b3uQ3dxE9lSUxOT4MsXYhl6EWl21QUYV/view?usp=sharing"
+links:
+ - name: "Podcast"
+   url: https://spotifycreators-web.app.link/e/e2mHnPPrVPb
+
 url_pdf: https://drive.google.com/file/d/1pQUdeLEAiMkEHaPjuNzBJM_WxiiDdDIg/view?usp=sharing
 url_code: ''
 url_dataset: ''

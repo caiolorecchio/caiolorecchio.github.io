@@ -33,9 +33,10 @@ featured: true
 # Disable reading time:
 reading_time: false
 
-# links:
-# - name: "Slides"
-#   url: "https://drive.google.com/file/d/1b3uQ3dxE9lSUxOT4MsXYhl6EWl21QUYV/view?usp=sharing"
+links:
+ - name: "Podcast"
+   url: https://spotifycreators-web.app.link/e/PAv9rpMrVPb
+
 url_pdf: https://drive.google.com/file/d/1lTyQPJR9eBLlGqmOrAetQKOW5R9hZEGH/view?usp=drive_link
 url_code: ''
 url_dataset: ''
