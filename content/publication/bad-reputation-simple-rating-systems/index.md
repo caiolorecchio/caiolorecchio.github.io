@@ -24,7 +24,7 @@ publication_short: ""
 abstract: We consider information censoring through finite memory as a device against bad reputational concerns. Our class of constrained information policies resembles common practices in online reputation systems, on which customers increasingly rely whenever hiring experts. In a world of repeated interactions between a long-lived expert and short-lived customers, Ely and Välimäki (2003) show that unlimited record-keeping may induce the expert to overchoose a certain action, seeking reputational gains. Consequently, welfare may reduce and markets may break down. We show that simple rating systems in such world help overcome market failures and improve upon both the full-memory and the no-memory cases.
 
 # Summary. An optional shortened abstract.
-summary: Review management mitigate the negative effects of reputational concerns in reputation systems.
+summary: Review management mitigates the negative effects of reputational concerns in reputation systems.
 
 # tags:
 #  - 
