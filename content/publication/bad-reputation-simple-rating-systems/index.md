@@ -30,9 +30,6 @@ summary: Review management mitigate the negative effects of reputational concern
 #  - 
 featured: true
 
-# Show publication and sharing statistics? (requires valid doi)
-add_badge: true
-
 # Disable reading time:
 reading_time: false
 

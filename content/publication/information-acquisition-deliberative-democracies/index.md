@@ -32,8 +32,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 #  - 
 featured: false
 
-# Show publication and sharing statistics? (requires valid doi)
-add_badge: false
+# Plumx Metrics?
+SSRN: 'https://plu.mx/plum/a/?doi=10.2139%2Fssrn.4744447'
 
 status: "*under review*"
 
