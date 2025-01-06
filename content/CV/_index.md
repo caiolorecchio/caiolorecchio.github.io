@@ -5,17 +5,23 @@ Last updated on Jan 06, 2025.
 ## Research and Teaching Fields
 * Microeconomic Theory, Game Theory, Information Economics, Political Economy, Industrial Organization.
 
-## Employment
+## Education
+* **Ph.D.** in Economics, *São Paulo School of Economics, FGV*, 2017-2021.
+* Visiting Student in Economics, *University of Texas at Austin*, 2019-2020.
+* **M.S.** in Economics *São Paulo School of Economics, FGV*, 2015-2017.
+* Visiting Student, *Sciences Po*, 2011-2012.
+* **B.S.** in International Relations, *University of Brasília*, 2008-2013.
+
+## Current Position
 * **Assistant Professor** in Economic Theory, *University of Barcelona*, 2023-present.
+  
+## Past Positions
 * **Postdoctoral Researcher** in Economic Theory, *University of Barcelona*, 2021-2023.
 * **Lecturer** in Game Theory, *Insper*, 2021.
 
-## Education
-* **Ph.D.** in Economics, *São Paulo School of Economics*, 2017-2021.
-* Visiting Student in Economics, *University of Texas at Austin*, 2019-2020.
-* **M.S.** in Economics *São Paulo School of Economics*, 2015-2017.
-* Visiting Student, *Sciences Po*, 2011-2012.
-* **B.S.** in International Relations, *University of Brasília*, 2008-2013.
+## Other Activities
+* Member of the [Research Group in Welfare Economics (CREB)](https://sites.google.com/view/crebwebpage/homepage/). 
+* Member of the [Barcelona Economic Analisis Team (BEAT)](https://www.ub.edu/beat/).
 
 ## Publications
 * Caio Lorecchio, Daniel Monte (2023). [Bad Reputation with Simple Rating Systems](https://caiolorecchio.github.io/publication/bad-reputation-simple-rating-systems/). *Games and Economic Behavior*, 142, 150-178.
@@ -44,29 +50,40 @@ Last updated on Jan 06, 2025.
 * **2021**: 6th World Congress of the Game Theory Society (virtual); North American Winter Meeting of the Econometric Society (virtual), 43rd Meeting of the Brazilian Econometric Society (virtual); Delhi Winter School (virtual).
 * **2019-2020**: 42nd Meeting of the Brazilian Econometric Society (virtual); Midwest Economic Theory Conference.
 
-## Courses
-* ff
-* ff
-* ff
-* ff
+## Teaching Experience
+* **Microeconomics II (Industrial Organization)**, B.S. in Economics, University of Barcelona, 2023-present (instructor).
+* **Microeconomics**, M.S. in Political Economy and Institutions, Univesity of Barcelona, 2021-present (instructor).
+* **Game theory**, B.S. in Economics, Insper, 2021 (instructor). 
+* **Microeconomics** (preparatory course for the Brazilian Admission Test for Graduate Students in Economics), B.S. in Economics, São Paulo School of Economics, FGV, 2018-2019 (instructor).
+* **Game Theory**, Ph.D. in Economics, São Paulo School of Economics, FGV, 2017-2018 (teaching assistant).
+* **Mathematics for Economists**, B.S. in Economics, São Paulo School of Economics, FGV, 2016 (teaching assistant).
 
 ## Referee Services
 * Mathematical Social Sciences, Brazilian Review of Econometrics, Games and Economic Behavior, Journal of Economic Theory. 
 
 ## Other Academic Services
-* **Erasmus Tutor**
+* **International Tutor** at University of Barcelona, 2024-present.
 * **Member of the Recruiting Committee** of the Economic Theory Section of University of Barcelona, 2022/2023, 2023/2024, 2024/2025.
 * **Reviewer** of the European Association of Young Economists, 2024, 2025.
 * **Member of the Scientific Committee** of the 46th Annual Meeting of the Brazilian Econometric Society, 2024.
-* **Organizer** of the *Universitat de Barcelona* Microeconomics Workshop, 2022, 2023, 2024, 2025.
-* **Teaching Assistant** 
+* **Organizer** of the *Universitat de Barcelona* Microeconomics Workshop, [2022](https://sites.google.com/view/ubmicroworkshop/home), [2023](https://sites.google.com/view/ubmicroworkshop-2/home), [2024](https://sites.google.com/view/ubmicroworkshop-3/home), 2025.
+
 
 ## Grants and Awards
+* PID Grant (PID2023-148696OA-I00), Principal Researcher Olga Chiappinelly, Spanish Ministry of Science and Innovation, 2024-present. 
+* PID Grant (PID2021-12837OB-I00), Principal Researchers Joan Calzada and Xavier Fageda, Spanish Ministry of Science and Innovation, 2022-present.
+* SGR Grant for the Research Group in Welfare Economics (SGR 00862), Principal Researcher Montserrat Vilalta, Government of Catalunya, 2021-present.
+* Emerging Areas Grant (UB-AE-2022), Principal Researchers Oriol Tejada and Ata Atay, University of Barcelona, 2022-2023. 
+* Visiting Ph.D. Student Scholarship at University of Texas at Austin, Brazilian Ministry of Education, 2019-2020.
+* Best Theory Paper Award at the 41st Meeting of the Brazilian Econometric Society, 2019.
+* Graduate Scholarship, Brazilian Ministry of Education, 2015-2021. 
 
 ## Language Skills
 * Portuguese, English, Spanish, Catalan, French. 
 
 ## Programming Skils
-* Python, R, Matlab, Latex, Markdown. 
+* Python, R, Matlab, LaTeX, Markdown. 
 
 ## Contact Information
+* e-mail: paeslemelorecchio@ub.edu
+* Address: [Avinguda Diagonal, 696, Office 412 (4th Floor), Barcelona, Spain 08034](https://maps.app.goo.gl/wtLXhqhswRbKxeL17).
