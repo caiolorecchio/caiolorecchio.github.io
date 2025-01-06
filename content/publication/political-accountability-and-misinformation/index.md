@@ -43,7 +43,7 @@ reading_time: false
 # links:
 # - name: "Slides"
 #   url: "https://drive.google.com/file/d/1b3uQ3dxE9lSUxOT4MsXYhl6EWl21QUYV/view?usp=sharing"
-url_pdf: https://diposit.ub.edu/dspace/bitstream/2445/217266/1/E24-479_Domenech%2bLorechio%2bTejada.pdf
+url_pdf: https://diposit.ub.edu/dspace/bitstream/2445/205060/1/E23-460_Camargo%2bKarpuska%2bLorecchio.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
