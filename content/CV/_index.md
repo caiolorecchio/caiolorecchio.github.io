@@ -1,3 +1,8 @@
+---
+title: " "
+type: cv
+layout: single
+---
 
 # Curriculum Vitae
 Last updated on Jan 06, 2025.

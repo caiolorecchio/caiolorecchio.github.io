@@ -1,0 +1,53 @@
+{{ $author := "admin" }} 
+{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page := site.GetPage $person_page_path }}
+
+{{ if not $person_page }}
+  <p>Author page not found at {{ $person_page_path }}. Please check your content/authors/ directory.</p>
+{{ else }}
+  {{ $person := $person_page.Params }} 
+
+  <div class="mx-auto flex max-w-screen-xl">
+    <!-- Left Column: Author's Info -->
+    <div class="flex-none w-full w-[20%] lg:w-[15%] xl:w-[12%] 2xl:w-[10%] ml-[-2rem]" style="width: 25%;">
+      <div id="profile" class="flex flex-col items-center text-center">
+        <!-- Avatar -->
+        {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+        {{ if $avatar }}
+        <div class="avatar-wrapper mt-6">
+          {{ $avatar_image := $avatar.Fill "150x150 Center" }}
+          <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" 
+               src="{{ $avatar_image.RelPermalink }}" 
+               alt="{{ $person_page.Title }}">
+        </div>
+        {{ end }}
+
+        <!-- Name and Company -->
+        <div class="mt-4 text-3xl font-bold">{{ $person_page.Title }}</div>
+        {{ with $person.role }}
+        <h3 class="text-lg font-semibold mb-2">{{ . }}</h3>
+        {{ end }}
+
+        <!-- Social Media Links -->
+        <ul class="network-icon flex justify-center mt-4 space-x-4">
+          {{ range $person.profiles }}
+          <li>
+            <a href="{{ .url | safeURL }}" target="_blank" rel="noopener" aria-label="{{ .icon }}">
+              {{ partial "functions/get_icon" (dict "name" .icon "attributes" "style=\"height: 1.5rem;\"") }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+
+    <!-- Right Column: CV Section -->
+    <div class="flex-auto prose prose-slate dark:prose-invert">
+      {{ with site.GetPage "cv" }}
+      {{ .Content | safeHTML }}
+      {{ else }}
+      <p>No CV content found. Please add an `_index.md` file to the `content/cv/` directory.</p>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

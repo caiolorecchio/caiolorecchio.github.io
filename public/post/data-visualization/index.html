@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: January 5, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: January 9, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -448,6 +448,7 @@
   
   
   
+  
 
 
 
@@ -777,7 +778,7 @@
 
 
 
-<div class="mx-auto flex max-w-screen-xl">
+<div class="mx-auto flex flex-row max-w-screen-xl">
   
 
 
@@ -1029,6 +1030,13 @@
               
             </li></ul>
       </div></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/cv/"
+    
+  > 
+    </a></li>
     </ul>
 
     <div class="max-xl:hidden h-0 w-64 shrink-0"></div></div>
@@ -1089,474 +1097,78 @@
 
 
   <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
-    <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
+    
+      <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
 
-      
-
-      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">📈 Communicate your results effectively with the best data visualizations</h1>
-
-      <div class="mt-4 mb-16">
-      <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Oct 25, 2023</span><span class="mx-1">·</span>
         
-          
-          
-          <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
+
+        <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">📈 Communicate your results effectively with the best data visualizations</h1>
+
+        <div class="mt-4 mb-16">
+          <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Oct 25, 2023</span><span class="mx-1">·</span>
+
             
             
-            <img src="/author/caio-lorecchio/avatar_hu3162957927792068086.webp" alt="Caio Lorecchio" class="inline-block h-4 w-4 rounded-full border border-current" loading="lazy" />
+              
+              
+              
+              <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
+                
+                  
+                  <img src="/author/caio-lorecchio/avatar_hu3162957927792068086.webp" alt="Caio Lorecchio" class="inline-block h-4 w-4 rounded-full border border-current" loading="lazy" />
+                
+                <div >Caio Lorecchio</div>
+              </div>
+              
             
-            <div >Caio Lorecchio</div>
+
+            
+              <span class="mx-1">·</span>
+              <span class="mx-1">
+                2 min read
+              </span>
+            
           </div>
+
+          <div class="mt-3">
+            
+
+
+
+
+
+          </div>
+        </div>
+
+        
+        
           
-        
-
-        
-        <span class="mx-1">·</span>
-        <span class="mx-1">
-          2 min read
-        </span>
-        
-        </div>
-
-        <div class="mt-3">
           
-
-
-
-
-
-        </div>
-      </div>
-
-      
-      
-      
-      
-      
-
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 720px; max-height: 480px;">
-        <div style="position: relative">
-          <img src="/post/data-visualization/featured_hu15046892941476069000.webp" width="720" height="480" alt="" class="featured-image">
-          <span class="article-header-caption">Image credit: <a href="https://unsplash.com" target="_blank" rel="noopener"><strong>Unsplash</strong></a></span>
-        </div>
-      </div>
-      
-
-      
-      
-
-      <div class="prose prose-slate lg:prose-xl dark:prose-invert">
-        <p>Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.</p>
-<p>Use popular tools such as Plotly, Mermaid, and data frames.</p>
-<h2 id="charts">Charts</h2>
-<p>Hugo Blox supports the popular <a href="https://plot.ly/" target="_blank" rel="noopener">Plotly</a> format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!</p>
-<p>Save your Plotly JSON in your page folder, for example <code>line-chart.json</code>, and then add the <code>{{&lt; chart data=&quot;line-chart&quot; &gt;}}</code> shortcode where you would like the chart to appear.</p>
-<p>Demo:</p>
-
-
-
-
-<div id="chart-621347589" class="chart"></div>
-<script>
-  async function fetchChartJSON() {
-    console.debug('Hugo Blox fetching chart JSON...')
-    const response = await fetch('.\/line-chart.json');
-    return await response.json();
-  }
-
-  (function() {
-    let a = setInterval( function() {
-      if ( typeof window.Plotly === 'undefined' ) {
-        console.debug('Plotly not loaded yet...')
-        return;
-      }
-      clearInterval( a );
-
-      fetchChartJSON().then(chart => {
-        console.debug('Plotting chart...')
-        window.Plotly.newPlot('chart-621347589', chart.data, chart.layout, {responsive: true});
-      });
-    }, 500 );
-  })();
-</script>
-
-<p>You might also find the <a href="http://plotly-json-editor.getforge.io/" target="_blank" rel="noopener">Plotly JSON Editor</a> useful.</p>
-<h2 id="diagrams">Diagrams</h2>
-<p>Hugo Blox supports the <em>Mermaid</em> Markdown extension for diagrams.</p>
-<p>An example <strong>flowchart</strong>:</p>
-<pre><code>```mermaid
-graph TD
-A[Hard] --&gt;|Text| B(Round)
-B --&gt; C{Decision}
-C --&gt;|One| D[Result 1]
-C --&gt;|Two| E[Result 2]
-```
-</code></pre>
-<p>renders as</p>
-<div class="mermaid">graph TD
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-</div>
-<p>An example <strong>sequence diagram</strong>:</p>
-<pre><code>```mermaid
-sequenceDiagram
-Alice-&gt;&gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&gt;&gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&gt;&gt;Alice: Great!
-John-&gt;&gt;Bob: How about you?
-Bob--&gt;&gt;John: Jolly good!
-```
-</code></pre>
-<p>renders as</p>
-<div class="mermaid">sequenceDiagram
-Alice->>John: Hello John, how are you?
-loop Healthcheck
-    John->>John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
-Bob-->>John: Jolly good!
-</div>
-<p>An example <strong>class diagram</strong>:</p>
-<pre><code>```mermaid
-classDiagram
-Class01 &lt;|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --&gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 &lt;--&gt; C2: Cool label
-```
-</code></pre>
-<p>renders as</p>
-<div class="mermaid">classDiagram
-Class01 <|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --> C2 : Where am i?
-Class09 --* C3
-Class09 --|> Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 <--> C2: Cool label
-</div>
-<p>An example <strong>state diagram</strong>:</p>
-<pre><code>```mermaid
-stateDiagram
-[*] --&gt; Still
-Still --&gt; [*]
-Still --&gt; Moving
-Moving --&gt; Still
-Moving --&gt; Crash
-Crash --&gt; [*]
-```
-</code></pre>
-<p>renders as</p>
-<div class="mermaid">stateDiagram
-[*] --> Still
-Still --> [*]
-Still --> Moving
-Moving --> Still
-Moving --> Crash
-Crash --> [*]
-</div>
-<h2 id="data-frames">Data Frames</h2>
-<p>Save your spreadsheet as a CSV file in your page&rsquo;s folder and then render it by adding the <em>Table</em> shortcode to your page:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">table</span> <span class="nx">path</span><span class="p">=</span><span class="s">&#34;results.csv&#34;</span> <span class="nx">header</span><span class="p">=</span><span class="s">&#34;true&#34;</span> <span class="nx">caption</span><span class="p">=</span><span class="s">&#34;Table 1: My results&#34;</span> <span class="p">&gt;}}</span>
-</span></span></code></pre></div><p>renders as</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table class="table-auto w-full">
-  
-    
-    
-    <thead>
-      <tr>  <th class="border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">customer_id</th>  <th class="border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left">score</th>  </tr>
-    </thead>
-  
-  <tbody>
-  
-    <tr>
-      
-        
-          <td data-table-dtype="number" class="border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400">1</td>
-        
-      
-        
-          <td data-table-dtype="number" class="border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400">0</td>
-        
-      
-    </tr>
-  
-    <tr>
-      
-        
-          <td data-table-dtype="number" class="border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400">2</td>
-        
-      
-        
-          <td data-table-dtype="text" class="border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400">0.5</td>
-        
-      
-    </tr>
-  
-    <tr>
-      
-        
-          <td data-table-dtype="number" class="border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400">3</td>
-        
-      
-        
-          <td data-table-dtype="number" class="border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400">1</td>
-        
-      
-    </tr>
-  
-  </tbody>
-  
-    <caption class="table-caption">Table 1: My results</caption>
-  
-</table>
-
-<h2 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌</h2>
-
-      </div>
-
-      
-  <time class="mt-12 mb-8 block text-xs text-gray-500 ltr:text-right rtl:text-left dark:text-gray-400" datetime="2023-10-25T00:00:00.000Z">
-    <span>Last updated on</span>
-    Oct 25, 2023</time>
-
-      <div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5">
-        
-        <div class="max-w-prose print:hidden">
-  
-  
-
-  
-
-<div class="flex justify-center">
-  
-  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/hugo/">Hugo</a>
-  
-  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/hugo-blox/">Hugo Blox</a>
-  
-  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/markdown/">Markdown</a>
-  
-</div>
-
-
-  
-<section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
-  
-
-  
-  
-  
-  
-  
-  
-  <a
-    target="_blank" rel="noopener"
-    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2Fdata-visualization%2F&amp;text=%F0%9F%93%88&#43;Communicate&#43;your&#43;results&#43;effectively&#43;with&#43;the&#43;best&#43;data&#43;visualizations"
-    title="X"
-    aria-label="X"
-    id="share-link-x"
-  >
-    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
-  </a>
-  
-
-  
-  
-  
-  
-  
-  
-  <a
-    target="_blank" rel="noopener"
-    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpost%2Fdata-visualization%2F&amp;t=%F0%9F%93%88&#43;Communicate&#43;your&#43;results&#43;effectively&#43;with&#43;the&#43;best&#43;data&#43;visualizations"
-    title="Facebook"
-    aria-label="Facebook"
-    id="share-link-facebook"
-  >
-    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95z"/></svg>
-  </a>
-  
-
-  
-  
-  
-  
-  
-  
-    
-  
-  <a
-    target="_blank" rel="noopener"
-    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="mailto:?subject=%F0%9F%93%88%20Communicate%20your%20results%20effectively%20with%20the%20best%20data%20visualizations&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpost%2Fdata-visualization%2F"
-    title="Email"
-    aria-label="Email"
-    id="share-link-email"
-  >
-    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="M16.5 12a4.5 4.5 0 1 1-9 0a4.5 4.5 0 0 1 9 0Zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 1 0-2.636 6.364M16.5 12V8.25"/></svg>
-  </a>
-  
-
-  
-  
-  
-  
-  
-  
-  <a
-    target="_blank" rel="noopener"
-    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2Fdata-visualization%2F&amp;title=%F0%9F%93%88&#43;Communicate&#43;your&#43;results&#43;effectively&#43;with&#43;the&#43;best&#43;data&#43;visualizations"
-    title="LinkedIn"
-    aria-label="LinkedIn"
-    id="share-link-linkedin"
-  >
-    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
-  </a>
-  
-
-  
-  
-  
-  
-  
-  
-  <a
-    target="_blank" rel="noopener"
-    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="whatsapp://send?text=%F0%9F%93%88&#43;Communicate&#43;your&#43;results&#43;effectively&#43;with&#43;the&#43;best&#43;data&#43;visualizations%20http%3A%2F%2Flocalhost%3A1313%2Fpost%2Fdata-visualization%2F"
-    title="WhatsApp"
-    aria-label="WhatsApp"
-    id="share-link-whatsapp"
-  >
-    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="currentColor"><path d="m187.58 144.84-32-16a8 8 0 0 0-8 .5l-14.69 9.8a40.55 40.55 0 0 1-16-16l9.8-14.69a8 8 0 0 0 .5-8l-16-32A8 8 0 0 0 104 64a40 40 0 0 0-40 40 88.1 88.1 0 0 0 88 88 40 40 0 0 0 40-40 8 8 0 0 0-4.42-7.16ZM152 176a72.08 72.08 0 0 1-72-72 24 24 0 0 1 19.29-23.54l11.48 23L101 118a8 8 0 0 0-.73 7.51 56.47 56.47 0 0 0 30.15 30.15A8 8 0 0 0 138 155l14.61-9.74 23 11.48A24 24 0 0 1 152 176ZM128 24a104 104 0 0 0-91.82 152.88l-11.35 34.05a16 16 0 0 0 20.24 20.24l34.05-11.35A104 104 0 1 0 128 24Zm0 192a87.87 87.87 0 0 1-44.06-11.81 8 8 0 0 0-6.54-.67L40 216l12.47-37.4a8 8 0 0 0-.66-6.54A88 88 0 1 1 128 216Z"/></svg>
-  </a>
-  
-</section>
-
-
-  
-
-
-
-
-  
-  
-    
-    
-    
-      
-      
-    
-<div class="pt-1 no-prose w-full">
-  <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
-  <div class="flex flex-col md:flex-row flex-nowrap justify-between gap-5 pt-2">
-    <div class="">
-      
-        <a class="group flex no-underline" href="/post/second-brain/">
-          <span
-            class="mt-[-0.3rem] me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
-          ><span class="ltr:inline rtl:hidden">&larr;</span></span>
-          <span class="flex flex-col">
-            <span
-              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-            >🧠 Sharpen your thinking with a second brain</span>
-            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+          
+          
+            
+            
+          
+          
+            
+          
+          <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 720px; max-height: 480px;">
+            <div style="position: relative">
+              <img src="/post/data-visualization/featured_hu15046892941476069000.webp" width="720" height="480" alt="" class="featured-image">
               
-                Oct 26, 2023
+                <span class="article-header-caption">Image credit: <a href="https://unsplash.com" target="_blank" rel="noopener"><strong>Unsplash</strong></a></span>
               
-            </span>
-          </span>
-        </a>
-      
-    </div>
-    <div class="">
-      
-        <a class="group flex text-right no-underline" href="/post/teach-courses/">
-          <span class="flex flex-col">
-            <span
-              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-            >👩🏼‍🏫 Teach academic courses</span
-            >
-            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-              
-                Oct 24, 2023
-              
-            </span>
-          </span>
-          <span
-            class="mt-[-0.3rem] ms-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
-          ><span class="ltr:inline">&rarr;</span></span>
-        </a>
-      
-    </div>
-  </div>
-</div>
+            </div>
+          </div>
+        
 
+        
 
-
-  
-
-
-  
-
-
-
-</div>
-
-      </div>
-
-    </main>
+      </main>
+    
   </article>
 </div>
+
 
     </div>
     <div class="page-footer">
