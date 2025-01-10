@@ -1,11 +1,11 @@
 ---
-title: " "
+title: ""
 type: cv
 layout: single
 ---
 
 # Curriculum Vitae
-Last updated on Jan 06, 2025.
+Last updated on Jan 10, 2025.
 
 ## Research and Teaching Fields
 * Microeconomic Theory, Game Theory, Information Economics, Political Economy, Industrial Organization.

@@ -4,24 +4,24 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: About Me
+  - name: 
     url: /
     weight: 1
   - name: News
     url: news/
-    weight: 2
+    weight: 3
   - name: Research
     url: publication/
-    weight: 3
+    weight: 4
   - name: Courses
     url: teaching/
-    weight: 4
+    weight: 5
   - name: Media
     url: media/
-    weight: 5
+    weight: 6
   - name: CV
     url: CV/
-    weight: 6
+    weight: 2
   - name: Contact
     url: contact/
     weight: 7
