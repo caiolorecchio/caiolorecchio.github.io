@@ -22,7 +22,7 @@ Students examine the functioning of non-competitive or imperfectly competitive m
 
 Enrolled students can access the course page on [Campus Virtual](https://campusvirtual.ub.edu/course/view.php?id=88409).
 
-## Slides
+## Content
 
 ### Introduction to the course
 * [Introduction to the course](https://drive.google.com/file/d/1QqUga_AnRKoWE5RxNFPvJMx9UmulxfQR/view?usp=sharing)

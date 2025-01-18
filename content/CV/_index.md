@@ -58,6 +58,7 @@ Last updated on Jan 10, 2025.
 ## Teaching Experience
 * **Microeconomics II (Industrial Organization)**, B.S. in Economics, University of Barcelona, 2023-present (instructor).
 * **Microeconomics**, M.S. in Political Economy and Institutions, Univesity of Barcelona, 2021-present (instructor).
+* **Advanced Microeconomics (Winter Course)**, Ph.D. in Economics, Universitat Rovira i Virgili, 2024 (instructor).
 * **Game theory**, B.S. in Economics, Insper, 2021 (instructor). 
 * **Microeconomics** (preparatory course for the Brazilian Admission Test for Graduate Students in Economics), B.S. in Economics, São Paulo School of Economics, FGV, 2018-2019 (instructor).
 * **Game Theory**, Ph.D. in Economics, São Paulo School of Economics, FGV, 2017-2018 (teaching assistant).

@@ -18,7 +18,7 @@ This course introduces the basic tools of microeconomic analysis to examine indi
 
 Enrolled students can access the course page on [Campus Virtual](https://campusvirtual.ub.edu/course/view.php?id=89069).
 
-## Slides
+## Contents
 
 ### Introduction to the course
 * [Introduction to the course](https://drive.google.com/file/d/1tn__8EeIwToEVeqehwTKPEWoIg6W8OEz/view?usp=sharing)
