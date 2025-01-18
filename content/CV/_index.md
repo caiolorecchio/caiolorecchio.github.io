@@ -56,10 +56,10 @@ Last updated on Jan 10, 2025.
 * **2019-2020**: 42nd Meeting of the Brazilian Econometric Society (virtual); Midwest Economic Theory Conference.
 
 ## Teaching Experience
-* **Microeconomics II (Industrial Organization)**, B.S. in Economics, University of Barcelona, 2023-present (instructor).
-* **Microeconomics**, M.S. in Political Economy and Institutions, Univesity of Barcelona, 2021-present (instructor).
-* **Advanced Microeconomics (Winter Course)**, Ph.D. in Economics, Universitat Rovira i Virgili, 2024 (instructor).
-* **Game theory**, B.S. in Economics, Insper, 2021 (instructor). 
+* **[Microeconomics II (Industrial Organization)](https://caiolorecchio.github.io/teaching/io-ub/)**, B.S. in Economics, University of Barcelona, 2023-present (instructor).
+* **[Microeconomics](https://caiolorecchio.github.io/teaching/microeconomics-mipe/)**, M.S. in Political Economy and Institutions, Univesity of Barcelona, 2021-present (instructor).
+* **[Advanced Microeconomics (Winter Course)](https://caiolorecchio.github.io/teaching/advanced-micro-urv/)**, Ph.D. in Economics, Universitat Rovira i Virgili, 2024 (instructor).
+* **[Game theory](https://caiolorecchio.github.io/teaching/game-theory-insper/)**, B.S. in Economics, Insper, 2021 (instructor). 
 * **Microeconomics** (preparatory course for the Brazilian Admission Test for Graduate Students in Economics), B.S. in Economics, São Paulo School of Economics, FGV, 2018-2019 (instructor).
 * **Game Theory**, Ph.D. in Economics, São Paulo School of Economics, FGV, 2017-2018 (teaching assistant).
 * **Mathematics for Economists**, B.S. in Economics, São Paulo School of Economics, FGV, 2016 (teaching assistant).
