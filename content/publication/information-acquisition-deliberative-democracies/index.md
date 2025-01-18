@@ -33,7 +33,7 @@ summary: With costly political learning, deliberative democracies may lead to le
 featured: false
 
 # Plumx Metrics?
-SSRN: 'https://plu.mx/plum/a/?doi=10.2139%2Fssrn.4744447'
+SSRN: "4744447"
 
 status: "*under review*"
 
