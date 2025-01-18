@@ -6,11 +6,11 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2023-11-17"
+date: '2023-11-17'
 doi: '10.1016/j.geb.2023.07.019' 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-11-17"
+publishDate: '2023-11-17'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
