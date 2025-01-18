@@ -139,6 +139,22 @@
             </div>
           </div>
         {{ end }}
+
+        <!-- Navigation Buttons -->
+        {{ if eq .Type "publication" }}
+          <div class="flex justify-between mt-8">
+            {{ with .PrevInSection }}
+              <a href="{{ .RelPermalink }}" class="btn btn-primary">
+                &larr; {{ .Title }}
+              </a>
+            {{ end }}
+            {{ with .NextInSection }}
+              <a href="{{ .RelPermalink }}" class="btn btn-primary">
+                {{ .Title }} &rarr;
+              </a>
+            {{ end }}
+          </div>
+        {{ end }}
         
       </main>
     {{ end }}
