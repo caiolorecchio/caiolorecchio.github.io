@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'paeslemelorecchio@ub.edu'
+    url: 'mailto:paeslemelorecchio@ub.edu'
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=7N-QnmQAAAAJ&hl=en
