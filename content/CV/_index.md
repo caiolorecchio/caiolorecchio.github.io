@@ -65,7 +65,7 @@ Last updated on Jan 10, 2025.
 * **Mathematics for Economists**, B.S. in Economics, São Paulo School of Economics, FGV, 2016 (teaching assistant).
 
 ## Referee Services
-* Mathematical Social Sciences, Brazilian Review of Econometrics, Games and Economic Behavior, Journal of Economic Theory. 
+* Mathematical Social Sciences, Brazilian Review of Econometrics, Games and Economic Behavior, Journal of Economic Theory.
 
 ## Other Academic Services
 * **International Tutor** at University of Barcelona, 2024-present.
