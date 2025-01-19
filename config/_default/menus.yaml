@@ -7,9 +7,12 @@ main:
   - name: 
     url: /
     weight: 1
-  - name: News
-    url: news/
-    weight: 3
+  - name: CV
+    url: CV/
+    weight: 2
+  #- name: News
+  #  url: news/
+  #  weight: 3
   - name: Research
     url: publication/
     weight: 4
@@ -19,9 +22,6 @@ main:
   - name: Media
     url: media/
     weight: 6
-  - name: CV
-    url: CV/
-    weight: 2
   - name: Contact
     url: contact/
     weight: 7

@@ -284,30 +284,6 @@
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
       <link>http://localhost:1313/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
@@ -434,7 +410,7 @@
 
 
 
-&lt;div id=&#34;chart-286741593&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-581673429&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -452,7 +428,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-286741593&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-581673429&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -913,6 +889,22 @@ Parallel 4   :         des6, after des4, 1d
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1x1MiBIg8-1OWSzvhA4oCiEq-ZaQgTTeM/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teaching evaluation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Sistemas de Reputação Digital</title>
+      <link>http://localhost:1313/media/pandas/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/media/pandas/</guid>
+      <description>&lt;p&gt;Poorly designed reputation systems can distort service providers&amp;rsquo; behavior, reduce feedback reliability, and erode trust.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>O Legado de Mirrlees e Vickrey</title>
+      <link>http://localhost:1313/media/scikit/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/media/scikit/</guid>
+      <description>&lt;p&gt;Coleção Economistas: Nobel.&lt;/p&gt;</description>
     </item>
     
   </channel>
