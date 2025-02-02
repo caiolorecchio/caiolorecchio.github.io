@@ -170,10 +170,10 @@
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/cv/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/cv/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication_types/</loc>

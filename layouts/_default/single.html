@@ -11,7 +11,9 @@
 
 <div class="mx-auto flex {{ if eq .Type "cv" }}w-full max-w-[1400px]{{ else }}max-w-screen-xl{{ end }}">
   {{ partial "components/sidebar.html" (dict "context" . "no_sidebar" true) }}
-  {{ partial "components/toc.html" . }}
+  {{ if ne .Type "contact" }}
+    {{ partial "components/toc.html" . }}
+  {{ end }}
 
   <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0
     {{ if eq .Type "cv" }} justify-start max-w-[1400px] mx-auto pl-[400px] {{ else }} justify-center max-w-screen-xl {{ end }}
@@ -26,8 +28,18 @@
           {{ partial "cv.html" . }}
         </div>
       </div>
-    {{ else }}
-      <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
+      {{ else if eq .Type "contact" }}
+      <div class="flex w-full">
+        <aside class="w-[250px]"> 
+          {{ partial "components/sidebar.html" (dict "context" . "no_sidebar" true) }}
+        </aside>
+        <div class="flex-1">
+          {{ with site.GetPage "contact" }}
+            {{ partial "contact.html" . }}
+          {{ end }}
+        </div>
+      </div>
+      <main class="w-full min-w-0 px-6 pt-4 md:px-12 flex-auto max-w-none">
 
         {{ if .Params.show_breadcrumb }}
           <div class="mb-4">
