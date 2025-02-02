@@ -9,21 +9,22 @@
 
   <div class="resume-biography px-3 flex flex-col md:flex-row justify-center gap-12">
     <!-- Left Column: Author's Info -->
-    <div class="flex-none max-w-[130px] mx-auto md:mx-0">
+    <div id="author-info" class="flex-none max-w-[130px] mx-auto md:mx-0 w-full md:w-[250px] p-5 rounded-lg bg-transparent" 
+         style="position: fixed; top: 20px; left: 70px; width: 250px; z-index: 1000;">
       <div id="profile" class="flex flex-col items-center text-center lg:items-start lg:text-left">
         <!-- Avatar -->
         {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
         {{ if $avatar }}
-        <div class="avatar-wrapper mt-6">
-          {{ $avatar_image := $avatar.Fill "150x150 Center" }}
+        <div class="avatar-wrapper mt-6" style="display: flex; justify-content: center; align-items: center;">
+          {{ $avatar_image := $avatar.Fill "200x200 Center" }}
           <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" 
                src="{{ $avatar_image.RelPermalink }}" 
-               alt="{{ $person_page.Title }}">
+               alt="{{ $person_page.Title }}" style="width: 150px; height: 150px; border-radius: 50%;">
         </div>
         {{ end }}
 
         <!-- Name and Company -->
-        <div class="mt-4 text-3xl font-bold">{{ $person_page.Title }}</div>
+        <div class="mt-4 text-xl font-bold">{{ $person_page.Title }}</div>
         {{ with $person.role }}
         <h3 class="text-lg font-semibold mb-2">{{ . }}</h3>
         {{ end }}
@@ -36,11 +37,11 @@
         {{ end }}
 
         <!-- Social Media Links -->
-        <ul class="network-icon flex justify-center mt-4 space-x-4">
+        <ul class="network-icon flex justify-center mt-4 space-x-3" style="display: flex; gap: 1px; flex-wrap: nowrap; align-items: center; justify-content: center; max-width: 100%; overflow: hidden;">
           {{ range $person.profiles }}
           <li>
-            <a href="{{ .url | safeURL }}" target="_blank" rel="noopener" aria-label="{{ .icon }}">
-              {{ partial "functions/get_icon" (dict "name" .icon "attributes" "style=\"height: 1.5rem;\"") }}
+            <a href="{{ .url | safeURL }}" target="_blank" rel="noopener" aria-label="{{ .icon }}" style="width: 18px; height: 18px; display: flex; align-items: center; justify-content: center;">
+              {{ partial "functions/get_icon" (dict "name" .icon "attributes" "style=\"width: 18px; height: 18px;\"") }}
             </a>
           </li>
           {{ end }}
@@ -61,7 +62,7 @@
     </div>
 
     <!-- Right Column: CV Section -->
-    <div class="flex-auto prose prose-slate dark:prose-invert">
+    <div id="cv-section" class="flex-auto prose prose-slate dark:prose-invert" style="margin-left: 350px; max-width: 1100px; width: calc(100% - 400px);">
       {{ with site.GetPage "cv" }}
       {{ .Content | safeHTML }}
       {{ else }}
@@ -70,3 +71,44 @@
     </div>
   </div>
 {{ end }}
+
+<!-- SCRIPT PLACED HERE, AT THE END OF cv.html -->
+<script>
+  function adjustPosition() {
+    let authorInfo = document.getElementById('author-info');
+    if (window.innerWidth < 768) {
+      authorInfo.style.position = 'static';  // Normal position on small screens
+    } else {
+      authorInfo.style.position = 'fixed';  // Fixed position on larger screens
+      authorInfo.style.top = '20px';
+      authorInfo.style.left = '20px';
+    }
+  }
+
+  function adjustLayout() {
+    let cvSection = document.getElementById('cv-section');
+    if (window.innerWidth < 768) {
+      // Center the CV section on smaller screens
+      cvSection.style.margin = 'auto';
+      cvSection.style.textAlign = 'center';
+      cvSection.style.maxWidth = '90%'; 
+      cvSection.style.width = '100%'; 
+    } else {
+      // Keep it aligned to the right on larger screens
+      cvSection.style.marginLeft = '350px';
+      cvSection.style.marginRight = '0';
+      cvSection.style.textAlign = 'left';
+      cvSection.style.maxWidth = '1100px';
+      cvSection.style.width = "calc(100% - 400px)";
+    }
+  }
+
+  function adjustAll() {
+    adjustPosition();
+    adjustLayout();
+  }
+
+  // Run on load and on resize
+  window.onload = adjustAll;
+  window.onresize = adjustAll;
+</script>
