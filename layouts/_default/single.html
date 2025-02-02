@@ -28,18 +28,17 @@
           {{ partial "cv.html" . }}
         </div>
       </div>
+      
       {{ else if eq .Type "contact" }}
-      <div class="flex w-full">
-        <aside class="w-[250px]"> 
-          {{ partial "components/sidebar.html" (dict "context" . "no_sidebar" true) }}
-        </aside>
-        <div class="flex-1">
-          {{ with site.GetPage "contact" }}
-            {{ partial "contact.html" . }}
-          {{ end }}
-        </div>
-      </div>
-      <main class="w-full min-w-0 px-6 pt-4 md:px-12 flex-auto max-w-none">
+      <main class="w-full min-w-0 px-6 pt-4 md:px-12">
+        {{ with site.GetPage "contact" }}
+          {{ partial "contact.html" . }}
+        {{ end }}
+      </main>
+
+    {{ else }}
+
+      <main class="w-full min-w-0 px-6 pt-4 md:px-12">
 
         {{ if .Params.show_breadcrumb }}
           <div class="mb-4">
