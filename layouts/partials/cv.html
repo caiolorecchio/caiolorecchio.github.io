@@ -62,7 +62,7 @@
     </div>
 
     <!-- Right Column: CV Section -->
-    <div id="cv-section" class="flex-auto prose prose-slate dark:prose-invert" style="margin-left: 350px; max-width: 1100px; width: calc(100% - 400px);">
+    <div id="cv-section" class="flex-auto prose prose-slate dark:prose-invert md:pl-[280px] md:w-full">
       {{ with site.GetPage "cv" }}
       {{ .Content | safeHTML }}
       {{ else }}
@@ -87,19 +87,33 @@
 
   function adjustLayout() {
     let cvSection = document.getElementById('cv-section');
+    let authorInfo = document.getElementById('author-info');
+
     if (window.innerWidth < 768) {
-      // Center the CV section on smaller screens
-      cvSection.style.margin = 'auto';
-      cvSection.style.textAlign = 'center';
-      cvSection.style.maxWidth = '90%'; 
-      cvSection.style.width = '100%'; 
+        // Small screens: Center CV section below author info
+        cvSection.style.margin = 'auto';
+        cvSection.style.textAlign = 'left';
+        cvSection.style.maxWidth = '90%'; 
+        cvSection.style.width = '100%'; 
+
+        // Reset author info positioning
+        authorInfo.style.position = 'static';
+    } else if (window.innerWidth < 1280) {
+        // Medium screens: Ensure proper layout
+        cvSection.style.marginLeft = '280px';  // Push CV section to the right
+        cvSection.style.width = 'calc(100% - 280px)'; // Ensure it takes remaining width
+        authorInfo.style.position = 'fixed';
+        authorInfo.style.top = '20px';
+        authorInfo.style.left = '20px';
     } else {
-      // Keep it aligned to the right on larger screens
-      cvSection.style.marginLeft = '350px';
-      cvSection.style.marginRight = '0';
-      cvSection.style.textAlign = 'left';
-      cvSection.style.maxWidth = '1100px';
-      cvSection.style.width = "calc(100% - 400px)";
+        // Large screens: Reset to default
+        cvSection.style.margin = '';
+        cvSection.style.textAlign = '';
+        cvSection.style.maxWidth = '';
+        cvSection.style.width = '';
+        authorInfo.style.position = 'fixed';
+        authorInfo.style.top = '20px';
+        authorInfo.style.left = '20px';
     }
   }
 

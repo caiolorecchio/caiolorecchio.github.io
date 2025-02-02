@@ -9,12 +9,23 @@
   {{ end }}
 {{ end }}
 
-<div class="mx-auto flex max-w-screen-xl">
+<div class="mx-auto flex {{ if eq .Type "cv" }}w-full max-w-[1400px]{{ else }}max-w-screen-xl{{ end }}">
   {{ partial "components/sidebar.html" (dict "context" . "no_sidebar" true) }}
   {{ partial "components/toc.html" . }}
-  <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+
+  <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0
+    {{ if eq .Type "cv" }} justify-start max-w-[1400px] mx-auto pl-[400px] {{ else }} justify-center max-w-screen-xl {{ end }}
+    pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+
     {{ if eq .Type "cv" }}
-      {{ partial "cv.html" . }}
+      <div class="flex w-full">
+        <aside class="w-[250px]"> 
+          {{ partial "components/sidebar.html" (dict "context" . "no_sidebar" true) }}
+        </aside>
+        <div class="flex-1">
+          {{ partial "cv.html" . }}
+        </div>
+      </div>
     {{ else }}
       <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
 
@@ -68,79 +79,6 @@
           </div>
         </div>
 
-        {{ $featured := partial "functions/get_featured_image.html" . }}
-        {{ if and $featured (not .Params.image.preview_only) }}
-          {{ $image := $featured }}
-          {{ $placement := .Params.image.placement | default 1 }}
-          {{ $image_container := "" }}
-          {{ if eq $placement 2 }}
-            {{ $image_container = "container" }}
-            {{ $image = $featured.Fit "1200x2500" }}
-          {{ else if eq $placement 3 }}
-            {{ $image_container = "container-fluid" }}
-            {{ $image = $featured.Fit "2560x2560" }}
-          {{ else }}
-            {{ $image_container = "article-container" }}
-            {{ $image = $featured.Fit "720x2500" }}
-          {{ end }}
-          {{ if ne $image.MediaType.SubType "gif" }}
-            {{ $image = $image.Process "webp" }}
-          {{ end }}
-          <div class="article-header {{ $image_container }} featured-image-wrapper mt-4 mb-16" style="max-width: {{ $image.Width }}px; max-height: {{ $image.Height }}px;">
-            <div style="position: relative">
-              <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image">
-              {{ with $.Params.image.caption }}
-                <span class="article-header-caption">{{ . | markdownify | emojify }}</span>
-              {{ end }}
-            </div>
-          </div>
-        {{ end }}
-
-        {{ if .Params.abstract | or (eq .Type "publication") | or (eq .Type "event") }}
-          <div class="max-w-prose grid grid-cols-1 md:grid-cols-[200px_auto] gap-4 my-6">
-            {{ if .Params.abstract }}
-              <div class="font-bold text-2xl">{{ i18n "abstract" }}</div>
-              <div>{{ .Params.abstract | markdownify }}</div>
-            {{ end }}
-
-            {{ if $pub_type_display }}
-              <div class="font-bold text-2xl">{{ i18n "publication_type" }}</div>
-              <div>
-                <a href="{{ range first 1 (.GetTerms "publication_types") }}{{.RelPermalink}}{{end}}">
-                  {{ $pub_type_display }}
-                </a>
-              </div>
-            {{ end }}
-
-            {{ if .Params.publication }}
-              <div class="font-bold text-2xl">{{ i18n "publication" }}</div>
-              <div>{{ .Params.publication | markdownify }}</div>
-            {{ else }}
-              <div class="font-bold text-2xl">Status</div>
-              <div>{{ .Params.status | markdownify }}</div>
-            {{ end }}
-          </div>
-        {{ end }}
-
-        <!-- Impact Metrics Row -->
-        {{ if or .Params.doi .Params.ssrn }}
-          <div class="max-w-prose grid grid-cols-1 md:grid-cols-[200px_auto] gap-4 my-6">
-            <div class="font-bold text-2xl">Impact Metrics</div>
-            <div class="flex items-center gap-12">
-              {{ if .Params.doi }}
-                <!-- Altmetric Badge -->
-                <div class="__dimensions_badge_embed__" data-doi="{{ .Params.doi }}" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle" rel="noopener noreferrer"></div>
-                <div class='altmetric-embed' data-badge-popover='bottom' data-doi="{{ .Params.doi }}"></div>
-              {{ end }}
-              {{ if .Params.ssrn }}
-                <!-- PlumX Badge for SSRN -->
-                <a href="https://plu.mx/ssrn/a/?ssrn_id={{ .Params.SSRN }}" data-popup="bottom" data-badge="true" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>
-              {{ end }}
-            </div>
-          </div>
-        {{ end }}
-
-        <!-- Navigation Buttons -->
         {{ if eq .Type "publication" }}
           <div class="flex justify-between mt-8">
             {{ with .PrevInSection }}
