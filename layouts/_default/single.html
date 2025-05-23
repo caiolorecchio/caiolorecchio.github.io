@@ -91,6 +91,20 @@
         </div>
 
         {{ if eq .Type "publication" }}
+
+          {{ with .Resources.GetMatch "featured*" }}
+            <div class="mb-6">
+              <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="w-full rounded shadow" loading="lazy" />
+            </div>
+          {{ end }}
+
+          {{ with .Params.abstract }}
+            <div class="prose dark:prose-invert mb-8">
+              <h2>{{ i18n "abstract" | default "Abstract" }}</h2>
+              <p>{{ . }}</p>
+            </div>
+          {{ end }}
+
           <div class="flex justify-between mt-8">
             {{ with .PrevInSection }}
               <a href="{{ .RelPermalink }}" class="btn btn-primary">
@@ -103,8 +117,7 @@
               </a>
             {{ end }}
           </div>
-        {{ end }}
-        
+      {{ end }}
       </main>
     {{ end }}
   </article>
