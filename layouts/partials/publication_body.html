@@ -1,0 +1,14 @@
+{{ if .Params.abstract }}
+  <div class="prose dark:prose-invert mb-8">
+    <h2>Abstract</h2>
+    <p>{{ .Params.abstract }}</p>
+  </div>
+{{ end }}
+
+{{ with .Resources.GetMatch "featured*" }}
+  <div class="mb-6">
+    <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="w-full rounded shadow" loading="lazy" />
+  </div>
+{{ end }}
+
+{{ .Content }}
