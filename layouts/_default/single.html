@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+{{ errorf "TEST BREAK: This layout should crash the build if Hugo is used." }}
+
 {{ $pub_type_csl := "" }}
 {{ $pub_type_display := "" }}
 {{ if .Params.publication_types }}
