@@ -1,9 +1,7 @@
 {{ if .Params.abstract }}
-  <div class="prose dark:prose-invert mb-8">
-    <h2>Abstract</h2>
-    <p>{{ .Params.abstract }}</p>
-  </div>
-{{ end }}
+          <div class="font-bold text-2xl">{{ i18n "abstract" }}</div>
+          <div>{{ .Params.abstract | markdownify }}</div>
+        {{ end }}
 
 {{ with .Resources.GetMatch "featured*" }}
   <div class="mb-6">
