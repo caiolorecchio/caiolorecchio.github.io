@@ -10,7 +10,7 @@
   <div class="resume-biography px-3 flex flex-col md:flex-row justify-center gap-12">
     <!-- Left Column: Author's Info -->
     <div id="author-info" class="flex-none max-w-[130px] mx-auto md:mx-0 w-full md:w-[250px] p-5 rounded-lg bg-transparent" 
-         style="position: fixed; top: 20px; left: 70px; width: 250px; z-index: 1000;">
+         style="position: fixed; top: 20px; left: 100px; width: 250px; z-index: 1000;">
       <div id="profile" class="flex flex-col items-center text-center lg:items-start lg:text-left">
         <!-- Avatar -->
         {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
@@ -116,8 +116,8 @@
           authorInfo.style.position = 'static';
       } else if (window.innerWidth < 1280) {
           // Medium screens: Ensure proper layout
-          contactSection.style.marginLeft = '350px';  // Push CV section to the right
-          contactSection.width = 'calc(100% - 350px)'; // Ensure it takes remaining width
+          contactSection.style.marginLeft = '280px';  // Push CV section to the right
+          contactSection.width = 'calc(100% - 280px)'; // Ensure it takes remaining width
           authorInfo.style.position = 'fixed';
           authorInfo.style.top = '20px';
           authorInfo.style.left = '20px';
@@ -129,7 +129,7 @@
           contactSection.style.width = '';
           authorInfo.style.position = 'fixed';
           authorInfo.style.top = '20px';
-          authorInfo.style.left = '20px';
+          authorInfo.style.left = '70px';
       }
     }
 

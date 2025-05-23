@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Caio Lorecchio</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
-      <title>Caio Lorecchio</title>
-      <link>http://localhost:1313/</link>
-    </image>
-    
     <item>
       <title>Example Talk</title>
       <link>http://localhost:1313/event/example/</link>
@@ -25,11 +19,14 @@
 &lt;/div&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s 
+ feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+&lt;p&gt;Further event details, including 
+ such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
     </item>
     
@@ -57,35 +54,52 @@
       <description>&lt;p&gt;Introductory course on Microeconomics for Master students in Institutions and Political Economy.&lt;/p&gt;
 &lt;p&gt;This course introduces the basic tools of microeconomic analysis to examine individual choices and the resulting market outcomes.&lt;/p&gt;
 &lt;h2 id=&#34;course-page&#34;&gt;Course page&lt;/h2&gt;
-&lt;p&gt;Enrolled students can access the course page on &lt;a href=&#34;https://campusvirtual.ub.edu/course/view.php?id=89069&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Campus Virtual&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Enrolled students can access the course page on 
+.&lt;/p&gt;
 &lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
 &lt;h3 id=&#34;introduction-to-the-course&#34;&gt;Introduction to the course&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1tn__8EeIwToEVeqehwTKPEWoIg6W8OEz/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to the course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;consumer-theory&#34;&gt;Consumer theory&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1ZsnxgHRYP3wL1yXWi3H-9PZVXznbQ5Ng/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preferences&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Ghxeo-DVgvBG2P0W_WrHeKy6LPvR2tvc/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rational choices&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1qgjA6BIS8i5VtD-gDxeE8brdqxXq4nsr/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consumer problem&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1QIL_QNTqZSipgvgQA9PoTwJogftahU1e/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marshallian demands&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1rhpp757q23xvU6IS_sutvCzGIPscdUGG/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Giffen goods&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;firm-theory&#34;&gt;Firm theory&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1pZONGdLfJaIzjgNc_u--VJOEpbigVVmG/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technologies and profit maximization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1e9pINgbzl0fX9oxSXDBpPT1ur7EmMX01/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cost minimization and individual supply&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;markets&#34;&gt;Markets&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Q5bBHtprCF8lp2JdBytTUfej48ABf7F-/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Welfare under perfect competition&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Mbc8aKZ603Q2bdhrZDskC5jGwO8xjEEk/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aggregate demand and aggregate supply&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Q5bBHtprCF8lp2JdBytTUfej48ABf7F-/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Price interventions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1FeRWNSvVCKvNSjTlbKFzjrI1sF396yYN/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Monopolies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1hbNRlJqy6bS0tHq1eMT2VeUz7PYkFG0e/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Regulation of monopolies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Z6qHEqDYZ0TP2z5L2GM2F_F2uektyh_I/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;General equilibrium and efficiency&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1yL6vamVBWFX-B7E1pMrZrg03vQQLN28l/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;General equilibrium and competitive markets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/12MTUQOXPWyG3-Yv0NKxMZNVApFPMR6IG/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;General equilibrium and production&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -103,43 +117,65 @@
 &lt;li&gt;What role is there for public policy?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;course-page&#34;&gt;Course page&lt;/h2&gt;
-&lt;p&gt;Enrolled students can access the course page on &lt;a href=&#34;https://campusvirtual.ub.edu/course/view.php?id=88409&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Campus Virtual&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Enrolled students can access the course page on 
+.&lt;/p&gt;
 &lt;h2 id=&#34;content&#34;&gt;Content&lt;/h2&gt;
 &lt;h3 id=&#34;introduction-to-the-course&#34;&gt;Introduction to the course&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1QqUga_AnRKoWE5RxNFPvJMx9UmulxfQR/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to the course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;monopoly&#34;&gt;Monopoly&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1JXhBiXhamzcgKLBhBj0NBDeLUPGukKtO/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/17XXnTEPkKTf6eG_mV-AIiVITPV5gO1C9/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1a9_q9Di-8p9Whbx3rChYLX_GEkpbKgas/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1PazEN8NAElTCkhXgHr4zuU3pzunc2wC7/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1udnlPKz-BSoTAwR3mgSJ-fJ2dTWgkUZr/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;price-discrimination&#34;&gt;Price discrimination&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Hn0wV27axEwDHwuWfaW-2vTevWvPsVew/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1_4U0AvKDYxPfpCsPv_bf-3qUPEcVfHb-/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 7&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/11bG72b4kklH_35m5zCWEwWiXn7EMsYsm/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 8&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1MFm4LLKP7BJLyWy3oHmZv7yJz6vw3zzn/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;imperfect-competition&#34;&gt;Imperfect competition&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1r1M__RaiHJmOv0CUG6bJv9Ded6X1hZ7n/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1_Jo7Y0k4ApSwEfN82vYehuzZOPXyOG3M/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 11&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1lWW3XxAJr-7mdDqfppMq4JzB86d9HaLq/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 12&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1OG9YbRSmg05XDOQvS2fJJgKWuG4xTWKL/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 13&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1EN70jWKzXYO7xCk9jio_u4KP9inpefRY/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 14&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/15MOY-8OyPruNoyHIrLNHSTUowzHWrHJ3/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 15&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/17Df1fmpdoEYJxV4ghZBoSFJGf-GcqMqi/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 16&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;product-differentiation&#34;&gt;Product differentiation&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1uMHbhb3-RMeez3y9TYntvvR_i7p5EUeh/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 17&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1_ssg5tnTW3R6Y7vxnyAF1AzqUkShSFCc/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 18&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1OsMg-iaij8naRGhR2N77gXK9-RlVpjBa/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 19&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1YFmeqSjmXWaLTWuYyrZhnpjTnuWDWU5d/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 20&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -160,23 +196,35 @@
       <description>&lt;p&gt;Winter course on Microeoconomics for Ph.D. students in Economics.&lt;/p&gt;
 &lt;p&gt;The objective of this course is to provide students with additional knowledge about standard tools of microeconomic analysis . Topics that will be analyzed include elements of decision theory (preference theory, choice theory decision under uncertainty), consumer theory producer theory, social choice, and welfare.&lt;/p&gt;
 &lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1-VrlHXN50ZShVgsPyxC0SAgiiRNGDDSZ/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Syllabus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Hal R. Varian, &lt;a href=&#34;https://wwnorton.com/books/9781324034292&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intermediate Microeconomics: A Modern Approach&lt;/a&gt;, 9th edition, W.W. Norton 2019
-• Ariel Rubinstein, &lt;a href=&#34;https://arielrubinstein.tau.ac.il/LectureNotesRubinstein/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture Notes in Microeconomic Theory&lt;/a&gt;, 2nd edition, Princeton University Press 2013
-• Geoffrey A. Jehle and Philip J. Reny, &lt;a href=&#34;https://www.pearson.com/en-us/subject-catalog/p/advanced-microeconomic-theory/P200000004552/9780273731917&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Microeconomics&lt;/a&gt;, 3rd edition, Pearson 2011
-• David M. Kreps, &lt;a href=&#34;https://press.princeton.edu/books/hardcover/9780691155838/microeconomic-foundations-i?srsltid=AfmBOop81uOmTVa4WSY_NeDTY0XADJfZqI436tEcL3whqsgbv07eP9hU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microeconomic Foundations I&lt;/a&gt;, Princeton University Press 2012
-• Andreu Mas-Colell, Michael D. Winston and Jerry R. Green, &lt;a href=&#34;https://www.amazon.com/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195073401&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microeconomic Theory&lt;/a&gt;, Oxford University Press 1995&lt;/li&gt;
+&lt;li&gt;Hal R. Varian, 
+, 9th edition, W.W. Norton 2019
+• Ariel Rubinstein, 
+, 2nd edition, Princeton University Press 2013
+• Geoffrey A. Jehle and Philip J. Reny, 
+, 3rd edition, Pearson 2011
+• David M. Kreps, 
+, Princeton University Press 2012
+• Andreu Mas-Colell, Michael D. Winston and Jerry R. Green, 
+, Oxford University Press 1995&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/12BDUqbsdbfIwTix34emhib3Pv2bBMous/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1PS3nN8K9sOYfxmZMQG_A96g9Xcr2I5S-/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 2-I&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1NKrmY_79z-SpjTtUw5Y7pA4GsBwonXnO/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 2-II&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1B5SKp1kEDjJVGqJTXCu9TbN6-fMMoTJu/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1hPDKSFDUc2Ksp4_ZN4hbLhR9kyElaMN2/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1EwMnP6LcdBpSIGzDQ1kIoMM10Y2Ch8xJ/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -218,7 +266,7 @@
     &lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/a&gt;
       &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#-click-here-to-become-a-sponsor-and-help-support-hugo-blox&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
@@ -239,31 +287,52 @@
 &lt;/ol&gt;
 &lt;h3 id=&#34;get-started&#34;&gt;Get Started&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Hugo Blox community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/GetResearchDev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GetResearchDev&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; #MadeWithHugoBlox&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Hugo Blox&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Hugo Blox?&lt;/strong&gt; View the &lt;a href=&#34;https://docs.hugoblox.com/reference/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👉 
+&lt;/li&gt;
+&lt;li&gt;📚 
+&lt;/li&gt;
+&lt;li&gt;💬 
+ or 
+&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: 
+ 
+ #MadeWithHugoBlox&lt;/li&gt;
+&lt;li&gt;💡 
+&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Hugo Blox?&lt;/strong&gt; View the 
+ and 
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
 &lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-hugo-blox&#34;&gt;
+&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock 
+ awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bibtex To Markdown&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;
+:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/creators/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn what other &lt;strong&gt;creators&lt;/strong&gt;&lt;/a&gt; are building with this template.&lt;/p&gt;
+&lt;p&gt;
+ are building with this template.&lt;/p&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with no-code &lt;a href=&#34;https://hugoblox.com/blocks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;blocks&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with no-code 
+ and 
+&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in 
+, 
+, or 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable 
+&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code syntax highlighting and LaTeX math supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - 
+, 
+, Maps, Contact Forms, and more!&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one-page design&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
@@ -276,10 +345,13 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
 &lt;p&gt;Hugo Blox and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;p&gt;
+ for your site. Themes are fully customizable.&lt;/p&gt;
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+&lt;p&gt;Copyright 2016-present 
+.&lt;/p&gt;
+&lt;p&gt;Released under the 
+ license.&lt;/p&gt;
 </description>
     </item>
     
@@ -372,7 +444,8 @@
 &lt;p&gt;&lt;mark&gt;Highlight&lt;/mark&gt; important text with &lt;code&gt;mark&lt;/code&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;mark&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Highlighted text&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;mark&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;callouts&#34;&gt;Callouts&lt;/h2&gt;
-&lt;p&gt;Use &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;callouts&lt;/a&gt; (aka &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;) to draw attention to notes, tips, and warnings.&lt;/p&gt;
+&lt;p&gt;Use 
+ (aka &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;) to draw attention to notes, tips, and warnings.&lt;/p&gt;
 &lt;p&gt;By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
@@ -403,14 +476,15 @@
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
+&lt;p&gt;Hugo Blox supports the popular 
+ format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
 &lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
 
 
-&lt;div id=&#34;chart-163852947&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-713258469&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -428,13 +502,14 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-163852947&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-713258469&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
 &lt;/script&gt;
 
-&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
+&lt;p&gt;You might also find the 
+ useful.&lt;/p&gt;
 &lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
 &lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
@@ -610,7 +685,8 @@ Crash --&gt; [*]
       <link>http://localhost:1313/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/teach-courses/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
+      <description>&lt;p&gt;
+ is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
@@ -618,9 +694,8 @@ Crash --&gt; [*]
 &lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube D2vj0WcvH5c &amp;gt;}}
 &lt;/code&gt;&lt;/pre&gt;
-
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
@@ -633,7 +708,8 @@ Crash --&gt; [*]
   &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your &lt;a href=&#34;https://gohugo.io/content-management/page-bundles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page&amp;rsquo;s folder&lt;/a&gt;, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your 
+, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;podcast&#34;&gt;Podcast&lt;/h2&gt;
@@ -824,69 +900,99 @@ Parallel 4   :         des6, after des4, 1d
       <description>&lt;p&gt;Introductory course on Game Theory for undergraduate students in Economics.&lt;/p&gt;
 &lt;p&gt;Students evaluate basic models of strategic behavior between economic agents, and learn how to identify economic settings of strategic interdependence and analyze them as games.&lt;/p&gt;
 &lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Rn_XRw97ripcferqykpqHYKt_yTYNoOk/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Syllabus&lt;/a&gt; (in Portuguese)&lt;/p&gt;
+&lt;p&gt;
+ (in Portuguese)&lt;/p&gt;
 &lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Dutta, P. &lt;a href=&#34;https://mitpress.mit.edu/9780262046527/strategies-and-games/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Strategies and Games&lt;/a&gt;, MIT, 1999.&lt;/li&gt;
-&lt;li&gt;Dixit, A., S. Skeath and D. Reiley, &lt;a href=&#34;https://wwnorton.com/books/Games-of-Strategy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Games of Strategy&lt;/a&gt;, Norton, 2015.&lt;/li&gt;
-&lt;li&gt;Talwalkar, P. &lt;a href=&#34;https://www.amazon.com/gp/product/1500497444/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1500497444&amp;amp;linkCode=as2&amp;amp;tag=minyoudec0a-20&amp;amp;linkId=VEY2QS3LDJXKQ3UA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Joy of Game Theory&lt;/a&gt;, 2013.&lt;/li&gt;
-&lt;li&gt;Tadelis, S. &lt;a href=&#34;https://press.princeton.edu/books/hardcover/9780691129082/game-theory?srsltid=AfmBOoqe8rAm28H7wfRmL4_6pAWrJehudHtDgWCnzyNym9d0-gA-mcjg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Game theory: An Introduction&lt;/a&gt;, Princeton University Press, 2013.&lt;/li&gt;
-&lt;li&gt;Fiani, R. &lt;a href=&#34;https://www.amazon.com.br/Teoria-dos-Jogos-Ronaldo-Fiani/dp/8535276653&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teoria dos Jogos&lt;/a&gt;, Elsevier, 2015.&lt;/li&gt;
+&lt;li&gt;Dutta, P. 
+, MIT, 1999.&lt;/li&gt;
+&lt;li&gt;Dixit, A., S. Skeath and D. Reiley, 
+, Norton, 2015.&lt;/li&gt;
+&lt;li&gt;Talwalkar, P. 
+, 2013.&lt;/li&gt;
+&lt;li&gt;Tadelis, S. 
+, Princeton University Press, 2013.&lt;/li&gt;
+&lt;li&gt;Fiani, R. 
+, Elsevier, 2015.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;content&#34;&gt;Content&lt;/h2&gt;
 &lt;h3 id=&#34;introduction-to-strategic-games&#34;&gt;Introduction to strategic games&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1yc8bh9Za6dz0yfLYY8LrcGZAdYd0zAGY/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;dominance-solvability&#34;&gt;Dominance solvability&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1vavEcL0uvpbgXw6sbmy0rzOtZI68x--d/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1ZaW9zt2obHz8wc6WtRtkdNaJRCTvglQa/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1nqJtvANnBftomS7CQdtYp9DmqshYEpd8/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;nash-equilibria&#34;&gt;Nash equilibria&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1s4gt8tShnnyvgdJ7UsojdKl1AWcE0QDP/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/11LRlAkoMncnUM0l2x-YkhKpD41MvIvgI/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/12F1FLsKV3sx3KinHzBZRc6ts2A5uThmH/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;mixed-strategies&#34;&gt;Mixed strategies&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1j_zDB_27iCvI5Eb0GzfT6G2857ClkEWw/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 8&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1YJwdDz3g0uhTFAziXdK8UySZJqP0-EUi/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 9&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1KaJgsMoGg9gVJ5b-TggovIq0pJ2ENqmB/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;extensive-games&#34;&gt;Extensive games&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1DoMaExH-bBVpUs8L7sC2k1ajh-mwbet7/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lectures 11 and 12&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/160m2OWCLdBqYLIZLDyqaQ_S5XAbf1rra/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 13&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;subgame-perfect-equilibria&#34;&gt;Subgame perfect equilibria&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Z8AC7kN0peaJdMP6FaTUnLsXWIo2ad-O/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 14&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1PzQV47w7ntDcb1SN1aleW11b5l8mZtka/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 15&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;games-of-imperfect-information&#34;&gt;Games of imperfect information&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1kcu9BZkhgGwAftfrxwa12ZT3_jLKJl1r/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 16&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1iCNHxpwD38tGV9_KpzxHOUPGSBljFLGp/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 17&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1z22bWuA3Ars_YAksF3lLDCSGtEi3bQ83/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 18&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;strategic-games-of-incomplete-information&#34;&gt;Strategic games of incomplete information&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1S_rgOHPXZwnzg34M3agj2Mnj1e5NfnkI/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 19&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1D73QUdQlUPU0pytiuV-29UFaV2kOsVFU/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 20&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1kVeyXRkjesDRNJ4kr8wzHWYAaEtWKzLz/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;extensive-games-of-incomplete-information&#34;&gt;Extensive games of incomplete information&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1M4iiFqB9RoV8a3DqjIV_D_IokrKjnifd/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 22&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1QiWbayTIQJMcP6WtTut-nN1wA_ceZwkK/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 23&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/18T6cKPZPNPjF5eaASn5iw0o2hBKrKkFc/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture 24&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;teaching-evaluations&#34;&gt;Teaching evaluations&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1x1MiBIg8-1OWSzvhA4oCiEq-ZaQgTTeM/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teaching evaluation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
