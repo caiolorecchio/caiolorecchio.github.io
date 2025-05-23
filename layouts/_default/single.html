@@ -98,7 +98,7 @@
             </div>
           {{ end }}
 
-          {{ with .Params.abstract }}
+          {{ if .Params.abstract }}
             <div class="prose dark:prose-invert mb-8">
               <h2>{{ i18n "abstract" | default "Abstract" }}</h2>
               <p>{{ . }}</p>
