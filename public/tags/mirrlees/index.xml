@@ -6,6 +6,12 @@
       <atom:link href="http://localhost:1313/tags/mirrlees/index.xml" rel="self" type="application/rss+xml" />
     <description>Mirrlees</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Mirrlees</title>
+      <link>http://localhost:1313/tags/mirrlees/</link>
+    </image>
+    
     <item>
       <title>O Legado de Mirrlees e Vickrey</title>
       <link>http://localhost:1313/media/scikit/</link>

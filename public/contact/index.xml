@@ -6,5 +6,11 @@
       <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
     <description> </description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title> </title>
+      <link>http://localhost:1313/contact/</link>
+    </image>
+    
   </channel>
 </rss>
