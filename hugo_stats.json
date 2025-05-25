@@ -385,6 +385,7 @@
       "sm:px-0",
       "space-x-3",
       "space-y-3",
+      "static",
       "sticky",
       "summary",
       "text-3xl",
