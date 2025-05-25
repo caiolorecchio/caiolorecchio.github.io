@@ -50,16 +50,16 @@
           {{- .Title -}}
         </h1>
 
-        {{ if .Params.abstract }}
-          <div style="border: 2px solid green; padding: 1em; margin-top: 1em;">
-            <h2>Abstract</h2>
-            <p>{{ .Params.abstract }}</p>
-          </div>
-        {{ else }}
-          <div style="border: 2px solid red; padding: 1em; margin-top: 1em;">
-            <strong>No abstract found.</strong>
-          </div>
-        {{ end }}
+      <!--{{ if .Params.abstract }}-->
+      <!--  <div style="border: 2px solid green; padding: 1em; margin-top: 1em;">-->
+      <!--    <h2>Abstract</h2>-->
+      <!--    <p>{{ .Params.abstract }}</p>-->
+      <!--  </div>-->
+      <!--{{ else }}-->
+      <!--  <div style="border: 2px solid red; padding: 1em; margin-top: 1em;">-->
+      <!--    <strong>No abstract found.</strong>-->
+      <!--  </div>-->
+      <!--{{ end }}-->
 
         <div class="mt-4 mb-16">
           <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2">
@@ -109,7 +109,7 @@
             </div>
           {{ end }}
 
-          {{ if .Params.abstract }}
+          {{ with .Params.abstract }}
             <div class="prose dark:prose-invert mb-8">
               <h2>{{ i18n "abstract" | default "Abstract" }}</h2>
               <p>{{ . }}</p>
