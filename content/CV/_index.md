@@ -5,7 +5,7 @@ layout: single
 ---
 
 # Curriculum Vitae
-Last updated on Jan 10, 2025.
+Last updated on Jul 02, 2026.
 
 ## Research and Teaching Fields
 * Microeconomic Theory, Game Theory, Information Economics, Political Economy, Industrial Organization.
@@ -36,11 +36,11 @@ Last updated on Jan 10, 2025.
   * We examine how an information designer can persuade agents to invest in a project under communication constraints that limit belief spread and hinder persuasion.
 
 ## Ongoing Projects
-* Caio Lorecchio, Oriol Tejada, Gerard Domènech-Gironell (2024). [Information Acquisition in Deliberative Democracies](https://caiolorecchio.github.io/publication/information-acquisition-deliberative-democracies/). *Under review*.
-  * We study how deliberation in democracies impacts costly information acquisition and electoral outcomes. While it can enhance legitimacy and accuracy, it may also lead to free-riding or over-reliance on political experts.
-  
-* Caio Lorecchio, William Fuchs, Vladimir Asriyan (2024). [Multilateral Bargaining with Information Spillovers](https://caiolorecchio.github.io/publication/multilateral-bargaining-information-spillovers/). *Work in progress*.
+* Caio Lorecchio, William Fuchs, Vladimir Asriyan (2026). [Multilateral Bargaining with Information Spillovers](https://caiolorecchio.github.io/publication/multilateral-bargaining-information-spillovers/). *Work in progress*.
   * Correlated demands rationalize more dynamic pricing than what classic bargaining models suggest.
+
+* Caio Lorecchio, Oriol Tejada, Gerard Domènech-Gironell (2025). [Information Acquisition in Deliberative Democracies](https://caiolorecchio.github.io/publication/information-acquisition-deliberative-democracies/).
+  * We study how deliberation in democracies impacts costly information acquisition and electoral outcomes. While it can enhance legitimacy and accuracy, it may also lead to free-riding or over-reliance on political experts.
   
 * Caio Lorecchio, Braz Camargo, Laura Karpuska (2023). [Political Accountability and Misinformation](https://caiolorecchio.github.io/publication/political-accountability-and-misinformation/). *Work in progress*.
   * We study how misinformation affects political accountability. Misinformation can negatively impact effective accountability, but also, perhaps counter-intuitively, can increase it.
@@ -65,7 +65,7 @@ Last updated on Jan 10, 2025.
 * **Mathematics for Economists**, B.S. in Economics, São Paulo School of Economics, FGV, 2016 (teaching assistant).
 
 ## Referee Services
-* Mathematical Social Sciences, Brazilian Review of Econometrics, Games and Economic Behavior, Journal of Economic Theory.
+* Mathematical Social Sciences, Brazilian Review of Econometrics, Games and Economic Behavior, Journal of Economic Theory, International Economic Review.
 
 ## Other Academic Services
 * **International Tutor** at University of Barcelona, 2024-present.

@@ -22,6 +22,9 @@ main:
   - name: Media
     url: media/
     weight: 6
+  - name: Talks
+    url: event/
+    weight: 7
   - name: Contact
     url: contact/
-    weight: 7
+    weight: 8

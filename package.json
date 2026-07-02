@@ -1,0 +1,24 @@
+{
+  "name": "caiolorecchio.github.io",
+  "version": "1.0.0",
+  "description": "[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiolorecchio/caiolorecchio.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiolorecchio/caiolorecchio.github.io/issues"
+  },
+  "homepage": "https://github.com/caiolorecchio/caiolorecchio.github.io#readme",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.12",
+    "tailwindcss": "^4.1.12"
+  }
+}
