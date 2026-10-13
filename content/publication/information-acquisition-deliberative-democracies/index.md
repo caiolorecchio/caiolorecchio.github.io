@@ -44,7 +44,7 @@ links:
  - name: "Podcast"
    url: https://spotifycreators-web.app.link/e/ZS91nFXbWPb
 
-url_pdf: https://diposit.ub.edu/dspace/bitstream/2445/217266/1/E24-479_Domenech%2bLorechio%2bTejada.pdf
+url_pdf: 'https://diposit.ub.edu/dspace/bitstream/2445/217266/1/E24-479_Domenech%2bLorechio%2bTejada.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
