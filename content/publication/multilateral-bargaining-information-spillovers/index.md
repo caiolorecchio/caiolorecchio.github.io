@@ -26,7 +26,7 @@ publishDate: "2026-10-12"
 abstract: "We study dynamic monopoly pricing with multiple buyers whose privately known valuations are correlated, so one buyer's purchase reveals information about others. Without seller commitment, these information spillovers alter future pricing incentives and feed back into current demand. They generate strategic complementarities in buyers' purchase decisions, making demand non-monotone and giving rise to equilibrium multiplicity. Information spillovers can strengthen or weaken the seller's effective commitment power, implying that seller revenue, buyer surplus, and welfare can be non-monotone in spillover strength. We characterize when these spillovers encourage data investment and experimentation, as well as facilitate coordination that mitigates hold-up."
 
 # Summary. An optional shortened abstract.
-summary: We study dynamic monopoly pricing with buyers whose valuations are correlated, so that one buyer’s purchase reveals information about the others. These information spillovers can strengthen or weaken the seller’s commitment power and generate multiple equilibria..
+summary: We study dynamic monopoly pricing with buyers whose valuations are correlated, so that one buyer’s purchase reveals information about the others. These information spillovers can strengthen or weaken the seller’s commitment power and generate multiple equilibria.
 
 # tags:
 #  - 
@@ -35,7 +35,7 @@ featured: false
 # Show publication and sharing statistics? (requires valid doi)
 add_badge: false
 
-status: "*work in progress*"
+status: "*working paper*"
 
 # Disable reading time:
 reading_time: false
