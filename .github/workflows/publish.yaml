@@ -47,9 +47,9 @@ jobs:
       uses: actions/configure-pages@v5
     - name: Install Node.js dependencies
       run: |
-        rm -rf node_modules package-lock.json
-        npm install
-        npm install @tailwindcss/typography
+        rm -rf node_modules
+        npm ci
+        npm install --no-save @tailwindcss/typography@0.5.16
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
