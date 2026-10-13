@@ -40,7 +40,7 @@ Last updated on Oct 13, 2026.
   * We study dynamic monopoly pricing with buyers whose valuations are correlated, so that one buyer's purchase reveals information about the others. These information spillovers can strengthen or weaken the seller's commitment power and generate multiple equilibria.
   * Armen Alchian Award, Annual Meeting of the Armenian Economic Association, 2026.
  
-* Caio Lorecchio (2023). [Persuading Crowds](https://caiolorecchio.github.io/publication/persuading-crowds/). *Working paper*.
+* Caio Lorecchio (2026). [Persuading Crowds](https://caiolorecchio.github.io/publication/persuading-crowds/). *Working paper*.
   * I study dynamic persuasion when agents learn from each other’s actions, so social learning moves beliefs beyond the principal’s control. The principal can do no better than when actions are unobservable, and when he cannot reach that bound, each disclosure is less informative, yet society learns more over time.
 
 * Caio Lorecchio, Oriol Tejada, Gerard Domènech-Gironell (2025). [Public Deliberation and Political Learning in Democracy](https://caiolorecchio.github.io/publication/information-acquisition-deliberative-democracies/). *Working Paper*.
