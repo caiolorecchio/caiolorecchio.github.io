@@ -49,6 +49,7 @@ jobs:
       run: |
         rm -rf node_modules package-lock.json
         npm install
+        npm install @tailwindcss/typography
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
