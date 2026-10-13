@@ -39,15 +39,16 @@ Last updated on Oct 13, 2026.
 * Caio Lorecchio, William Fuchs, Vladimir Asriyan (2026). [Multilateral Bargaining with Information Spillovers](https://caiolorecchio.github.io/publication/multilateral-bargaining-information-spillovers/). *Working Paper*.
   * We study dynamic monopoly pricing with buyers whose valuations are correlated, so that one buyer's purchase reveals information about the others. These information spillovers can strengthen or weaken the seller's commitment power and generate multiple equilibria.
   * Armen Alchian Award, Annual Meeting of the Armenian Economic Association, 2026.
+ 
+* Caio Lorecchio (2023). [Persuading Crowds](https://caiolorecchio.github.io/publication/persuading-crowds/). *Working paper*.
+  * I study dynamic persuasion when agents learn from each other’s actions, so social learning moves beliefs beyond the principal’s control. The principal can do no better than when actions are unobservable, and when he cannot reach that bound, each disclosure is less informative, yet society learns more over time.
 
-* Caio Lorecchio, Oriol Tejada, Gerard Domènech-Gironell (2025). [Information Acquisition in Deliberative Democracies](https://caiolorecchio.github.io/publication/information-acquisition-deliberative-democracies/). *Working Paper*.
+* Caio Lorecchio, Oriol Tejada, Gerard Domènech-Gironell (2025). [Public Deliberation and Political Learning in Democracy](https://caiolorecchio.github.io/publication/information-acquisition-deliberative-democracies/). *Working Paper*.
   * We show that public deliberation can lead voters to free-ride on costly information, but can also create informed political experts, raising or lowering electoral accuracy.
   
 * Caio Lorecchio, Braz Camargo, Laura Karpuska (2023). [Political Accountability and Misinformation](https://caiolorecchio.github.io/publication/political-accountability-and-misinformation/). *Working Paper*.
   * We study how misinformation affects political accountability. Misinformation can negatively impact effective accountability, but also, perhaps counter-intuitively, can increase it.
   
-* Caio Lorecchio (2023). [Persuading Crowds](https://caiolorecchio.github.io/publication/persuading-crowds/). *Working paper*.
-  * I examine crowd manipulation through dynamic info design, and show when to induce herd behavior from the outset and when to withold decisive releases for later periods.
 
 ## Talks
 * **2026**: 6th Durham Economic Theory Conference; Armenian Economic Association Meeting; Benelux Political Economy Conference; Meeting of the Society for the Advancement of Economic Theory; International Conference on Public Economic Theory; International Workshop on Game Theory and Economic Applications; Seminars at Universitat de les Illes Balears, University of Sao Paulo and University of Duisburg-Essen; 5th *Universitat de Barcelona* Microeconomics Workshop (discussant), 3rd IO MAD Bar (discussant).
