@@ -45,6 +45,10 @@ jobs:
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v5
+    - name: Install Node.js dependencies
+      run: |
+        rm -rf node_modules package-lock.json
+        npm install
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
