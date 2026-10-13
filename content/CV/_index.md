@@ -41,7 +41,7 @@ Last updated on Oct 13, 2026.
   * Armen Alchian Award, Annual Meeting of the Armenian Economic Association, 2026.
 
 * Caio Lorecchio, Oriol Tejada, Gerard Domènech-Gironell (2025). [Information Acquisition in Deliberative Democracies](https://caiolorecchio.github.io/publication/information-acquisition-deliberative-democracies/). *Working Paper*.
-  * We study how deliberation in democracies impacts costly information acquisition and electoral outcomes. While it can enhance legitimacy and accuracy, it may also lead to free-riding or over-reliance on political experts.
+  * We show that public deliberation can lead voters to free-ride on costly information, but can also create informed political experts, raising or lowering electoral accuracy.
   
 * Caio Lorecchio, Braz Camargo, Laura Karpuska (2023). [Political Accountability and Misinformation](https://caiolorecchio.github.io/publication/political-accountability-and-misinformation/). *Working Paper*.
   * We study how misinformation affects political accountability. Misinformation can negatively impact effective accountability, but also, perhaps counter-intuitively, can increase it.
