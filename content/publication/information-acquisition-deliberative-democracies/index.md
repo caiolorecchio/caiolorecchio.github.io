@@ -1,5 +1,5 @@
 ---
-title: "Information Acquisition in Deliberative Democracies"
+title: "Public Deliberation and Political Learning in Democracy"
 authors:
 - admin
 - oriol-tejada
@@ -8,11 +8,11 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-date: "2024-12-01"
+date: "2025-01-05"
 doi: 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-12-01"
+publishDate: "2025-01-05"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,10 +23,10 @@ publishDate: "2024-12-01"
 # publication: "*UB Economics – Working Papers*, E24/479"
 # publication_short: ""
 
-abstract: "We examine the impact of deliberation on political learning and election outcomes. A rational, common-valued electorate votes under majority rule, after potentially acquiring costly private information and sharing it freely through public deliberation. Our findings suggest that deliberation can lead to free-riding on information gathering, but also encourage the emergence of informed political experts. Overall, deliberation may legitimize purely electoral outcomes and yield more accurate decisions. However, deliberation may also reduce electoral accuracy. We provide conditions for these results and contribute to the understanding of the strengths and limitations of deliberative democracies."
+abstract: "We examine the impact of public deliberation on political learning and election outcomes. A rational, common-valued electorate votes under the majority rule, after potentially acquiring costly private information and sharing it freely through public deliberation. Our findings suggest that  deliberation can lead to free-riding on information gathering, but also encourage the emergence of informed political experts. Overall,  deliberation may legitimize purely electoral outcomes and yield more accurate decisions. However,  deliberation may also reduce electoral accuracy. We provide conditions for these results and contribute to the understanding of the strengths and limitations of public deliberation in democracy"
 
 # Summary. An optional shortened abstract.
-summary: With costly political learning, deliberative democracies may lead to less informed collective decisions. 
+summary: We show that public deliberation can lead voters to free-ride on costly information, but can also create informed political experts, raising or lowering electoral accuracy.
 
 # tags:
 #  - 
@@ -35,7 +35,7 @@ featured: false
 # Plumx Metrics?
 SSRN: "4744447"
 
-status: "*under review*"
+status: "*working paper*"
 
 # Disable reading time:
 reading_time: false
