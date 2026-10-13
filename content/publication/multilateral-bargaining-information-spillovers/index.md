@@ -8,11 +8,11 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-date: "2024-12-01"
+date: "2026-12-10"
 doi: 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01"
+publishDate: "2026-12-10"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,10 +23,10 @@ publishDate: "2025-01-01"
 # publication: ""
 # publication_short: ""
 
-abstract: "We study dynamic bargaining with information asymmetries and spillovers. A monopolist faces potential buyers with private, yet correlated, valuations for a good. As such, while trying to extract surplus from early buyers, the monopolist must consider that their trading behavior reveals information to delaying buyers. The monopolist's inability to commit to prices limits surplus extraction, but the commitment gains are non-monotonic in correlation: at lower levels, lack of commitment power is more detrimental with more information; at higher levels, commitment power increases with more information. Additionally, we examine the impacts of correlation on the pricing dynamics, the speed of trades and welfare. The model has implications for policies targeting market segmentation. Specifically, we show that regulating the monopolist's possibility of charging different prices to different buyers may increase or decrease welfare, depending on the correlation level and the bargaining cost."
+abstract: "We study dynamic monopoly pricing with multiple buyers whose privately known valuations are correlated, so one buyer's purchase reveals information about others. Without seller commitment, these information spillovers alter future pricing incentives and feed back into current demand. They generate strategic complementarities in buyers' purchase decisions, making demand non-monotone and giving rise to equilibrium multiplicity. Information spillovers can strengthen or weaken the seller's effective commitment power, implying that seller revenue, buyer surplus, and welfare can be non-monotone in spillover strength. We characterize when these spillovers encourage data investment and experimentation, as well as facilitate coordination that mitigates hold-up."
 
 # Summary. An optional shortened abstract.
-summary: Correlated demands rationalize more dynamic pricing than what classic bargaining models suggest.
+summary: We study dynamic monopoly pricing with buyers whose valuations are correlated, so that one buyer’s purchase reveals information about the others. These information spillovers can strengthen or weaken the seller’s commitment power and generate multiple equilibria..
 
 # tags:
 #  - 
@@ -42,13 +42,13 @@ reading_time: false
 
 # links:
 # - name: "Slides"
-#   url: "https://drive.google.com/file/d/1b3uQ3dxE9lSUxOT4MsXYhl6EWl21QUYV/view?usp=sharing"
-url_pdf: 
+#   url: "https://drive.google.com/file/d/11yMO87aujPo0wzMTpOEGlKS2aNeRNDTD/view?usp=sharing"
+url_pdf: 'https://drive.google.com/file/d/10Q8IjKsTU41Tnp6KgPXtDbGLlgo-XVZ9/view?usp=sharing'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://drive.google.com/file/d/1aBY8SXAcVVSZvvCAnF85b1XXGKJFeixu/view?usp=sharing'
+url_slides: 'https://drive.google.com/file/d/11yMO87aujPo0wzMTpOEGlKS2aNeRNDTD/view?usp=sharing'
 url_source: ''
 url_video: ''
 
