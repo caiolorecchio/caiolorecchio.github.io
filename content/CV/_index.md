@@ -5,7 +5,7 @@ layout: single
 ---
 
 # Curriculum Vitae
-Last updated on Jul 02, 2026.
+Last updated on Oct 13, 2026.
 
 ## Research and Teaching Fields
 * Microeconomic Theory, Game Theory, Information Economics, Political Economy, Industrial Organization.
@@ -36,19 +36,22 @@ Last updated on Jul 02, 2026.
   * We examine how an information designer can persuade agents to invest in a project under communication constraints that limit belief spread and hinder persuasion.
 
 ## Ongoing Projects
-* Caio Lorecchio, William Fuchs, Vladimir Asriyan (2026). [Multilateral Bargaining with Information Spillovers](https://caiolorecchio.github.io/publication/multilateral-bargaining-information-spillovers/). *Work in progress*.
-  * Correlated demands rationalize more dynamic pricing than what classic bargaining models suggest.
+* Caio Lorecchio, William Fuchs, Vladimir Asriyan (2026). [Multilateral Bargaining with Information Spillovers](https://caiolorecchio.github.io/publication/multilateral-bargaining-information-spillovers/). *Working Paper*.
+  * We study dynamic monopoly pricing with buyers whose valuations are correlated, so that one buyer's purchase reveals information about the others. These information spillovers can strengthen or weaken the seller's commitment power and generate multiple equilibria.
+  * Armen Alchian Award, Annual Meeting of the Armenian Economic Association, 2026.
 
-* Caio Lorecchio, Oriol Tejada, Gerard Domènech-Gironell (2025). [Information Acquisition in Deliberative Democracies](https://caiolorecchio.github.io/publication/information-acquisition-deliberative-democracies/).
+* Caio Lorecchio, Oriol Tejada, Gerard Domènech-Gironell (2025). [Information Acquisition in Deliberative Democracies](https://caiolorecchio.github.io/publication/information-acquisition-deliberative-democracies/). *Working Paper*.
   * We study how deliberation in democracies impacts costly information acquisition and electoral outcomes. While it can enhance legitimacy and accuracy, it may also lead to free-riding or over-reliance on political experts.
   
-* Caio Lorecchio, Braz Camargo, Laura Karpuska (2023). [Political Accountability and Misinformation](https://caiolorecchio.github.io/publication/political-accountability-and-misinformation/). *Work in progress*.
+* Caio Lorecchio, Braz Camargo, Laura Karpuska (2023). [Political Accountability and Misinformation](https://caiolorecchio.github.io/publication/political-accountability-and-misinformation/). *Working Paper*.
   * We study how misinformation affects political accountability. Misinformation can negatively impact effective accountability, but also, perhaps counter-intuitively, can increase it.
   
-* Caio Lorecchio (2022). [Persuading Crowds](https://caiolorecchio.github.io/publication/persuading-crowds/). *Working paper*.
+* Caio Lorecchio (2023). [Persuading Crowds](https://caiolorecchio.github.io/publication/persuading-crowds/). *Working paper*.
   * I examine crowd manipulation through dynamic info design, and show when to induce herd behavior from the outset and when to withold decisive releases for later periods.
 
 ## Talks
+* **2026**: 6th Durham Economic Theory Conference; Armenian Economic Association Meeting; Benelux Political Economy Conference; Meeting of the Society for the Advancement of Economic Theory; International Conference on Public Economic Theory; International Workshop on Game Theory and Economic Applications; Seminars at Universitat de les Illes Balears, University of Sao Paulo and University of Duisburg-Essen; 5th *Universitat de Barcelona* Microeconomics Workshop (discussant), 3rd IO MAD Bar (discussant).
+* **2025**: 5th Durham Economic Theory Conference; International Industrial Organization Conference; Symposium of the Spanish Economic Association; Jornadas de Economía Industrial; Catalan Economic Society Conference; Armenian Economic Association Meeting; Seminar at Federal University of Minas Gerais (virtual).
 * **2024**: 35th Stony Brook International Conference on Game Theory; Armenian Economic Association Meeting; North American Summer Meeting of the Econometric Society; XXXVIII *Jornadas de Economia Industrial*; Micro Theory Seminars of the Berlin School of Economics (HU, TU, WZB, ESMT, Hertie, Posdam); Economic Theory Seminars at University of Barcelona; Seminars on Game Theory and Economic Dynamics at University of Barcelona.
 * **2023**: 34th Stony Brook International Conference on Game Theory; Armenian Economic Association Meeting; 3rd Durham Economic Theory Conference; Catalan Economic Society Congress; 2nd *Universitat de Barcelona* Microeconomics Workshop; 12th Annual Conference of the Israeli Chapter of the Econometric Society; Workshop on Economic Theories of the Information Society at CERGE-EI.  
 * **2022**: North American Summer Meeting of the Econometric Society; *Universitat de Barcelona* Microeconomics Workshop; 74th European Meeting of the Econometric Society; 4th *Trobada* of the Barcelona Economic Analysis Team; Economic Theory Seminars of Florida State University (virtual). 
@@ -58,6 +61,7 @@ Last updated on Jul 02, 2026.
 ## Teaching Experience
 * **[Microeconomics II (Industrial Organization)](https://caiolorecchio.github.io/teaching/io-ub/)**, B.S. in Economics, University of Barcelona, 2023-present (instructor).
 * **[Microeconomics](https://caiolorecchio.github.io/teaching/microeconomics-mipe/)**, M.S. in Political Economy and Institutions, Univesity of Barcelona, 2021-present (instructor).
+* **Intermediate Microeconomics** (Summer Course), American University of Armenia, 2025 (instructor).
 * **[Advanced Microeconomics (Winter Course)](https://caiolorecchio.github.io/teaching/advanced-micro-urv/)**, Ph.D. in Economics, Universitat Rovira i Virgili, 2024 (instructor).
 * **[Game theory](https://caiolorecchio.github.io/teaching/game-theory-insper/)**, B.S. in Economics, Insper, 2021 (instructor). 
 * **Microeconomics** (preparatory course for the Brazilian Admission Test for Graduate Students in Economics), B.S. in Economics, São Paulo School of Economics, FGV, 2018-2019 (instructor).
@@ -68,11 +72,13 @@ Last updated on Jul 02, 2026.
 * Mathematical Social Sciences, Brazilian Review of Econometrics, Games and Economic Behavior, Journal of Economic Theory, International Economic Review.
 
 ## Other Academic Services
-* **International Tutor** at University of Barcelona, 2024-present.
-* **Member of the Recruiting Committee** of the Economic Theory Section of University of Barcelona, 2022/2023, 2023/2024, 2024/2025.
-* **Reviewer** of the European Association of Young Economists, 2024, 2025.
-* **Member of the Scientific Committee** of the 46th Annual Meeting of the Brazilian Econometric Society, 2024.
-* **Organizer** of the *Universitat de Barcelona* Microeconomics Workshops, [2022](https://sites.google.com/view/ubmicroworkshop/home), [2023](https://sites.google.com/view/ubmicroworkshop-2/home), [2024](https://sites.google.com/view/ubmicroworkshop-3/home), 2025.
+* **Coordinator of the Job Market Process in Microeconomic Theory**, Economic Theory Section, University of Barcelona, 2025/2026.
+* **International Tutor** at University of Barcelona, 2024-2026.
+* **Member of the Recruiting Committee** of the Economic Theory Section of University of Barcelona, 2022/2023, 2023/2024, 2024/2025, 2025/2026.
+* **Reviewer** of the European Association of Young Economists, 2024, 2025, 2026.
+* **Organizer** of the *Universitat de Barcelona* Microeconomics Workshops, [2022](https://sites.google.com/view/ubmicroworkshop/home), [2023](https://sites.google.com/view/ubmicroworkshop-2/home), [2024](https://sites.google.com/view/ubmicroworkshop-3/home), [2025](https://sites.google.com/view/ubmicroworkshop-4/home), [2026] (https://sites.google.com/view/ub-fifth-micro-workshop/home).
+* **Organizer** of the American Economic Association Meeting, [2025](https://aea.am/annual-meetings-2025/), [2026] (https://aea.am/annual-meetings-2026/).
+*  **Member of the Scientific Committee** of the 46th Annual Meeting of the Brazilian Econometric Society, 2024.
 
 
 ## Grants and Awards
@@ -81,6 +87,7 @@ Last updated on Jul 02, 2026.
 * SGR Grant for the Research Group in Welfare Economics (SGR 00862), Principal Researcher Montserrat Vilalta, Government of Catalunya, 2021-present.
 * Emerging Areas Grant (UB-AE-2022), Principal Researchers Oriol Tejada and Ata Atay, University of Barcelona, 2022-2023. 
 * Visiting Ph.D. Student Scholarship at University of Texas at Austin, Brazilian Ministry of Education, 2019-2020.
+* Armen Alchian Award, Annual Meeting of the Armenian Economic Association, 2026.
 * Best Theory Paper Award at the 41st Meeting of the Brazilian Econometric Society, 2019.
 * Graduate Scholarship, Brazilian Ministry of Education, 2015-2021. 
 
@@ -91,6 +98,6 @@ Last updated on Jul 02, 2026.
 * Python, R, Matlab, LaTeX, Markdown. 
 
 ## Contact Information
-* Website: https://www.caiolorecchio.com/
+* Website: https://caiolorecchio.github.io/
 * E-mail: paeslemelorecchio@ub.edu
 * Address: [Avinguda Diagonal, 696, Office 412 (4th Floor), Barcelona, Spain 08034](https://maps.app.goo.gl/wtLXhqhswRbKxeL17).
