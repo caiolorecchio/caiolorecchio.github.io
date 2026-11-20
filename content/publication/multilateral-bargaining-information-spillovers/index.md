@@ -35,7 +35,7 @@ featured: false
 # Show publication and sharing statistics? (requires valid doi)
 add_badge: false
 
-status: "*working paper*"
+status: "*under review*"
 
 # Disable reading time:
 reading_time: false
