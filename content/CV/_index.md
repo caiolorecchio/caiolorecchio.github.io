@@ -5,7 +5,7 @@ layout: single
 ---
 
 # Curriculum Vitae
-Last updated on Oct 13, 2026.
+Last updated on Nov 20, 2026.
 
 ## Research and Teaching Fields
 * Microeconomic Theory, Game Theory, Information Economics, Political Economy, Industrial Organization.
@@ -36,7 +36,10 @@ Last updated on Oct 13, 2026.
   * We examine how an information designer can persuade agents to invest in a project under communication constraints that limit belief spread and hinder persuasion.
 
 ## Ongoing Projects
-* Caio Lorecchio, William Fuchs, Vladimir Asriyan (2026). [Multilateral Bargaining with Information Spillovers](https://caiolorecchio.github.io/publication/multilateral-bargaining-information-spillovers/). *Working Paper*.
+* Caio Lorecchio, Davide Pietrobon (2026). [The Social Value of Information in Cooperation](https://caiolorecchio.github.io/publication/social-value-information-cooperation/). *Under Review*.
+  * We show that public information can reduce welfare only if it destabilizes cooperative arrangements that are stable without it, so its social value can be negative even when individuals are risk neutral.
+
+* Caio Lorecchio, William Fuchs, Vladimir Asriyan (2026). [Multilateral Bargaining with Information Spillovers](https://caiolorecchio.github.io/publication/multilateral-bargaining-information-spillovers/). *Under Review*.
   * We study dynamic monopoly pricing with buyers whose valuations are correlated, so that one buyer's purchase reveals information about the others. These information spillovers can strengthen or weaken the seller's commitment power and generate multiple equilibria.
   * Armen Alchian Award, Annual Meeting of the Armenian Economic Association, 2026.
  
